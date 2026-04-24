@@ -1,0 +1,17 @@
+title: HearRelay
+description: Sound Monitor for Baby & Noise Check
+theme: jekyll-theme-minimal
+permalink: pretty
+markdown: kramdown
+
+# Exclude drafts / working files
+exclude:
+  - README.md
+  - .gitignore
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
