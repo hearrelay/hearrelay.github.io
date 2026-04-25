@@ -35,7 +35,7 @@ lang: zh-Hans
 - 配对设备之间使用的加密握手与 TLS 传输
 - 基于 iCloud Key-Value Storage 的节点发现过程
 - 本地文件处理(录音存储与自动删除)
-- 项目网站 `hearrelay.github.io`
+- 项目网站 `hearrelay.app`
 
 ---
 

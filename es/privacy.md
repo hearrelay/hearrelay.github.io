@@ -147,7 +147,7 @@ Podemos revisar esta política de privacidad. La fecha de revisión se actualiza
 - Privacidad: **hearrelay-privacy@conex-cp.com**
 - Soporte: **hearrelay-support@conex-cp.com**
 - Seguridad: **hearrelay-security@conex-cp.com**
-- Web: <https://hearrelay.github.io/>
+- Web: <https://hearrelay.app/>
 
 ---
 

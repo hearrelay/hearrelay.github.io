@@ -164,7 +164,7 @@ HearRelay 仅就个人使用进行授权。若您打算在工作场所、以商�
 - 支持：**hearrelay-support@conex-cp.com**
 - 隐私：**hearrelay-privacy@conex-cp.com**
 - 安全：**hearrelay-security@conex-cp.com**
-- 官网：<https://hearrelay.github.io/>
+- 官网：<https://hearrelay.app/>
 
 ---
 

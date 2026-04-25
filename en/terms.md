@@ -162,7 +162,7 @@ You acknowledge that:
 - Support: **hearrelay-support@conex-cp.com**
 - Privacy: **hearrelay-privacy@conex-cp.com**
 - Security: **hearrelay-security@conex-cp.com**
-- Web: <https://hearrelay.github.io/>
+- Web: <https://hearrelay.app/>
 
 ---
 

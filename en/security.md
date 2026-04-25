@@ -33,7 +33,7 @@ The following are in-scope for reporting:
 - The cryptographic handshake and TLS transport used between paired devices
 - The iCloud Key-Value Storage–based peer discovery process
 - Local file handling (recording storage and automatic deletion)
-- The project website at `hearrelay.github.io`
+- The project website at `hearrelay.app`
 
 ---
 

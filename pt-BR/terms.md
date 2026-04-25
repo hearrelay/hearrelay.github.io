@@ -164,7 +164,7 @@ Você reconhece que:
 - Suporte: **hearrelay-support@conex-cp.com**
 - Privacidade: **hearrelay-privacy@conex-cp.com**
 - Segurança: **hearrelay-security@conex-cp.com**
-- Web: <https://hearrelay.github.io/>
+- Web: <https://hearrelay.app/>
 
 ---
 

@@ -31,7 +31,7 @@ HearRelay ユーザーを守るためのご協力に感謝します。本ペー�
 - ペア端末間の暗号ハンドシェイクおよび TLS 伝送路
 - iCloud Key-Value Storage を用いたピア発見プロセス
 - 端末内のファイル取り扱い(録音保存・自動削除)
-- プロジェクト Web サイト `hearrelay.github.io`
+- プロジェクト Web サイト `hearrelay.app`
 
 ---
 

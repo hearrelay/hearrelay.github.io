@@ -35,7 +35,7 @@ Os seguintes itens estão no escopo para relatos:
 - O handshake criptográfico e o transporte TLS usados entre dispositivos pareados
 - O processo de descoberta de pares baseado em iCloud Key-Value Storage
 - O manuseio local de arquivos (armazenamento de gravações e exclusão automática)
-- O site do projeto em `hearrelay.github.io`
+- O site do projeto em `hearrelay.app`
 
 ---
 

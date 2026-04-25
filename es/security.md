@@ -35,7 +35,7 @@ Entran en el alcance de los reportes:
 - El handshake criptográfico y el transporte TLS utilizado entre dispositivos emparejados
 - El proceso de descubrimiento de pares basado en iCloud Key-Value Storage
 - La gestión local de archivos (almacenamiento de grabaciones y borrado automático)
-- El sitio web del proyecto en `hearrelay.github.io`
+- El sitio web del proyecto en `hearrelay.app`
 
 ---
 

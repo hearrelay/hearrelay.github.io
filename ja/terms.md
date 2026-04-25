@@ -162,7 +162,7 @@ HearRelay はあくまで補助ツールとしてご利用ください。直接�
 - サポート: **hearrelay-support@conex-cp.com**
 - プライバシー: **hearrelay-privacy@conex-cp.com**
 - セキュリティ: **hearrelay-security@conex-cp.com**
-- Web: <https://hearrelay.github.io/>
+- Web: <https://hearrelay.app/>
 
 ---
 

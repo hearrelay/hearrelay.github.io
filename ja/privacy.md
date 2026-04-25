@@ -145,7 +145,7 @@ HearRelay(以下「本アプリ」)は、プライバシー保護を第一の設
 - プライバシー: **hearrelay-privacy@conex-cp.com**
 - サポート: **hearrelay-support@conex-cp.com**
 - セキュリティ: **hearrelay-security@conex-cp.com**
-- Web: <https://hearrelay.github.io/>
+- Web: <https://hearrelay.app/>
 
 ---
 

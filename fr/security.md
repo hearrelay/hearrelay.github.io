@@ -35,7 +35,7 @@ Sont couverts par les signalements :
 - La négociation cryptographique et le transport TLS utilisés entre les appareils appariés
 - Le processus de découverte de pairs basé sur iCloud Key-Value Storage
 - La gestion locale des fichiers (stockage des enregistrements et suppression automatique)
-- Le site Web du projet à `hearrelay.github.io`
+- Le site Web du projet à `hearrelay.app`
 
 ---
 

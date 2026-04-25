@@ -147,7 +147,7 @@ HearRelay 是一款面向成年人（通常为父母或看护者）的实用工�
 - 隐私：**hearrelay-privacy@conex-cp.com**
 - 支持：**hearrelay-support@conex-cp.com**
 - 安全：**hearrelay-security@conex-cp.com**
-- 官网：<https://hearrelay.github.io/>
+- 官网：<https://hearrelay.app/>
 
 ---
 
