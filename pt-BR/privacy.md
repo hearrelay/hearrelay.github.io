@@ -155,12 +155,12 @@ Na medida em que a CONEX seja considerada controladora desse tratamento limitado
 
 As **bases legais** são:
 
-- **execução do contrato** da licença do aplicativo e de serviços relacionados solicitados por você, para permitir descoberta de dispositivos, autenticação e comunicação local ponto-a-ponto (Artigo 6(1)(b) do GDPR); e
-- os **interesses legítimos** da CONEX (Artigo 6(1)(f) do GDPR) na manutenção da segurança, integridade, prevenção de abusos e arquitetura de rede local preservadora de privacidade do Aplicativo.
+- **execução do contrato** da licença do aplicativo e de serviços relacionados solicitados por você, para permitir descoberta de dispositivos, autenticação e comunicação local ponto-a-ponto (**Artigo 6(1)(b) do GDPR**); e
+- os **interesses legítimos** da CONEX na manutenção da segurança, integridade, prevenção de abusos e arquitetura de rede local preservadora de privacidade do Aplicativo (**Artigo 6(1)(f) do GDPR**).
 
-Quando a lei aplicável exigir consentimento para uma operação específica, contaremos com o seu consentimento (Artigo 6(1)(a) do GDPR). Você pode retirar esse consentimento desativando o iCloud para o Aplicativo, redefinindo as configurações de segurança do dispositivo no Aplicativo ou desinstalando o Aplicativo, embora isso possa impedir o funcionamento da descoberta de dispositivos ou do pareamento.
+Quando a lei aplicável exigir consentimento para uma operação específica, **solicitaremos seu consentimento antes dessa operação e o utilizaremos como base** (**Artigo 6(1)(a) do GDPR**). Você pode retirar esse consentimento desativando o iCloud para o Aplicativo, redefinindo as configurações de segurança do dispositivo no Aplicativo ou desinstalando o Aplicativo, embora isso possa impedir o funcionamento da descoberta de dispositivos ou do pareamento.
 
-Para a **correspondência voluntária por e-mail** (§4), as bases legais são a execução de qualquer obrigação de suporte / pré-contratual / contratual solicitada por você, e nosso interesse legítimo em responder a consultas e manter a segurança do Aplicativo.
+Para a **correspondência voluntária por e-mail** (§4), as bases legais são a execução de qualquer obrigação de suporte, pré-contratual ou contratual solicitada por você (**Artigo 6(1)(b) do GDPR**), e os interesses legítimos da CONEX em responder a consultas e manter a segurança do Aplicativo (**Artigo 6(1)(f) do GDPR**).
 
 **Representante na UE.** A CONEX não designou atualmente um representante no EEE. Com base na avaliação atual da CONEX, o Aplicativo é projetado de modo que a CONEX não coleta dados pessoais em seus próprios servidores, e qualquer tratamento pelo qual a CONEX possa ser considerada responsável é limitado, de baixo risco e relacionado à descoberta local de dispositivos e à segurança. Reavaliaremos essa posição se nossas atividades de tratamento, base de usuários, regiões de distribuição, orientações aplicáveis ou expectativas regulatórias mudarem de forma material. Isso não limita seu direito de nos contatar em **hearrelay-privacy@conex-cp.com** ou de apresentar reclamação a uma autoridade de supervisão competente.
 
@@ -204,7 +204,25 @@ Para exercer qualquer direito, entre em contato em **hearrelay-privacy@conex-cp.
 
 ## 13. Segurança
 
-Utilizamos proteções de padrão da indústria:
+### Visão geral do fluxo de dados
+
+```text
+[Microfone do dispositivo A]
+         |
+         | apenas processamento local
+         v
+[App do dispositivo A] <─── canal P2P criptografado na mesma rede Wi-Fi ───> [App do dispositivo B]
+         |
+         | apenas metadados de descoberta de dispositivo (veja §5)
+         v
+[Apple iCloud Key-Value Storage, escopo do ID Apple]
+
+[Apple App Store + In-App Purchase]   ─── a Apple processa os pagamentos
+[Servidor CONEX]                      ─── nenhum
+[SDKs de terceiros de análise / publicidade / rastreamento]   ─── nenhum
+```
+
+### Proteções técnicas
 
 - **HearRelay Secure Channel** (X25519 ECDH + AEAD ChaCha20-Poly1305) para toda a comunicação dispositivo-a-dispositivo
 - Chaves de identidade **P-256** geradas e armazenadas no **Secure Enclave** quando disponível, com fallback no Keychain

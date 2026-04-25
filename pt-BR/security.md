@@ -42,7 +42,7 @@ Se você fizer um relato de boa-fé dentro do escopo desta política e cumprir e
 
 **Limitações importantes.** Esta política **não** autoriza acesso a qualquer sistema, serviço, conta, dispositivo ou dado sem permissão. Ela **não** renuncia nem limita qualquer lei criminal, autoridade regulatória ou direitos de terceiros. Ela **não** vincula a Apple, o GitHub, provedores de e-mail, provedores de nuvem, autoridades policiais, promotores, reguladores ou qualquer outro terceiro.
 
-Poderemos tomar as medidas apropriadas — incluindo notificar partes afetadas ou autoridades — em casos envolvendo extorsão, ameaças, exploração ativa, dano a usuários, acesso não autorizado a sistemas de terceiros ou descumprimento desta política.
+Poderemos tomar as medidas apropriadas — incluindo notificar partes afetadas ou autoridades — em casos envolvendo extorsão, ameaças, exploração ativa, dano a usuários, acesso não autorizado a sistemas de terceiros ou **descumprimento substancial desta política após notificação, quando o problema puder ser corrigido razoavelmente**.
 
 ---
 
@@ -95,6 +95,27 @@ O HearRelay é projetado em torno de três princípios:
 1. **Minimização de dados** — áudio e gravações nunca saem do seu dispositivo; sem SDKs de análise ou publicidade.
 2. **Somente rede local** — dispositivos pareados se comunicam exclusivamente pela mesma Wi-Fi / rede local, nunca pela Internet.
 3. **Identidade criptográfica do par** — os dispositivos se identificam mutuamente com chaves de assinatura **P-256** (armazenadas no **Secure Enclave** quando disponível, com fallback no Keychain) e descobrem-se uns aos outros via iCloud Key-Value Storage no escopo da sua Apple ID.
+
+### Visão geral do fluxo de dados
+
+```text
+[Microfone do dispositivo A]
+         |
+         | apenas processamento local
+         v
+[App do dispositivo A] <─── canal P2P criptografado na mesma rede Wi-Fi ───> [App do dispositivo B]
+         |
+         | apenas metadados de descoberta de dispositivo (chave pública, impressão digital,
+         | nome do dispositivo, plataforma/modelo, versão do app, datas da chave)
+         v
+[Apple iCloud Key-Value Storage, escopo do ID Apple]
+
+[Apple App Store + In-App Purchase]   ─── a Apple processa os pagamentos
+[Servidor CONEX]                      ─── nenhum
+[SDKs de terceiros de análise / publicidade / rastreamento]   ─── nenhum
+```
+
+A CONEX não opera nenhum servidor e não tem acesso operacional aos dados armazenados no Apple iCloud nem aos dados processados pelo Apple IAP. Os únicos dados que a CONEX recebe diretamente são os que os usuários enviam voluntariamente por e-mail (veja [Política de Privacidade §4](/pt-BR/privacy/)).
 
 O transporte usa o **HearRelay Secure Channel**: X25519 ECDH para acordo de chaves com sigilo persistente (forward-secret), AEAD ChaCha20-Poly1305 com proteção contra repetição, e nonces derivados de contador por quadro.
 

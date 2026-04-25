@@ -64,6 +64,8 @@ O HearRelay continua a capturar e retransmitir áudio em segundo plano enquanto 
 
 As Live Activities têm uma duração máxima imposta pelo sistema operacional (cerca de 8 horas). Atingido esse limite, o indicador pode parar de atualizar mesmo com o HearRelay em funcionamento. Reabra o Aplicativo para atualizar.
 
+**Importante:** Mesmo que uma Live Activity ou widget da Tela bloqueada pare de atualizar devido a limites do sistema, **a captura de áudio em segundo plano pode continuar enquanto o monitoramento estiver ativo**. Use isso apenas em situações de monitoramento legais e previamente divulgadas. Não coloque um dispositivo onde ele possa capturar pessoas que não receberam o aviso ou consentimento legalmente exigido. O iOS também pode exibir seus indicadores de microfone / privacidade do sistema enquanto a captura de áudio está ativa.
+
 ---
 
 ## Compras e assinaturas

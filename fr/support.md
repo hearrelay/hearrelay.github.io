@@ -64,6 +64,8 @@ HearRelay continue de capturer et de retransmettre l'audio en arrière-plan lors
 
 Les Live Activities ont une durée maximale imposée par l'OS (environ 8 heures). Une fois cette durée atteinte, l'indicateur peut cesser de se mettre à jour même si HearRelay continue de fonctionner. Rouvrez l'Application pour rafraîchir.
 
+**Important :** Même si une Live Activity ou un widget de l'écran verrouillé cesse de se mettre à jour en raison des limites de l'OS, **la capture audio en arrière-plan peut se poursuivre tant que la surveillance est active**. N'utilisez ceci que dans des situations de surveillance licites et divulguées. Ne placez pas un appareil là où il pourrait capter des personnes n'ayant pas reçu la notification ou le consentement légalement requis. iOS peut également afficher ses indicateurs système de microphone / confidentialité pendant que la capture audio est active.
+
 ---
 
 ## Achats et abonnements

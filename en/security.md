@@ -40,7 +40,7 @@ If you make a good-faith report within the scope of this policy and comply with 
 
 **Important limitations.** This policy does **not** authorize access to any system, service, account, device, or data without permission. It does **not** waive or limit any criminal law, regulatory authority, or third-party rights. It does **not** bind Apple, GitHub, email providers, cloud providers, law enforcement, prosecutors, regulators, or any other third party.
 
-We may take appropriate action — including notifying affected parties or authorities — in cases involving extortion, threats, active exploitation, harm to users, unauthorized access to third-party systems, or failure to follow this policy.
+We may take appropriate action — including notifying affected parties or authorities — in cases involving extortion, threats, active exploitation, harm to users, unauthorized access to third-party systems, or **material failure to follow this policy after notice where the issue can reasonably be corrected**.
 
 ---
 
@@ -93,6 +93,27 @@ HearRelay is designed around three principles:
 1. **Data minimisation** — audio and recordings never leave your device; no analytics or advertising SDKs.
 2. **Local network only** — paired devices communicate exclusively over the same Wi-Fi / local network, never over the internet.
 3. **Cryptographic peer identity** — devices identify each other with **P-256** signing keys (stored in the **Secure Enclave** where supported, with a Keychain fallback), and discover each other via iCloud Key-Value Storage scoped to your Apple ID.
+
+### Data flow at a glance
+
+```text
+[Device A microphone]
+         |
+         | local processing only
+         v
+[Device A App] <─── same-Wi-Fi P2P encrypted channel ───> [Device B App]
+         |
+         | device-discovery metadata only (public key, fingerprint,
+         | device name, platform/model, app version, key dates)
+         v
+[Apple iCloud Key-Value Storage, Apple ID scope]
+
+[Apple App Store + In-App Purchase]   ─── Apple processes payments
+[CONEX server]                        ─── none
+[Third-party analytics / ads / tracking SDKs]   ─── none
+```
+
+CONEX has no backend server and no operational access to any of the data stored within Apple's iCloud or processed by Apple's IAP. The only data CONEX itself receives is what users voluntarily send by email (see [Privacy Policy §4](/en/privacy/)).
 
 Transport uses the **HearRelay Secure Channel**: X25519 ECDH for forward-secret key agreement, ChaCha20-Poly1305 AEAD with replay protection, and per-frame counter-derived nonces.
 

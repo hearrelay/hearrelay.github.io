@@ -62,6 +62,8 @@ HearRelay continues to capture and relay audio in the background while the scree
 
 Live Activities have an OS-imposed maximum duration (around 8 hours). Once reached, the indicator may stop updating even though HearRelay keeps working. Re-open the App to refresh.
 
+**Important:** Even if a Live Activity or Lock Screen widget stops updating due to OS limits, **background audio capture may continue while monitoring is active**. Use this only in lawful, disclosed monitoring situations. Do not place a device where it may capture people who have not received any legally required notice or consent. iOS may also show its system microphone / privacy indicators while audio capture is active.
+
 ---
 
 ## Purchases and subscriptions

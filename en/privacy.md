@@ -153,12 +153,12 @@ To the extent CONEX is regarded as a controller for such limited processing, the
 
 The **legal bases** are:
 
-- **performance** of the app license and related services requested by you, to enable device discovery, authentication, and local peer-to-peer communication; and
-- CONEX's **legitimate interests** in maintaining the security, integrity, abuse prevention, and privacy-preserving local-network architecture of the App.
+- **performance** of the app license and related services requested by you, to enable device discovery, authentication, and local peer-to-peer communication (**GDPR Article 6(1)(b)**); and
+- CONEX's **legitimate interests** in maintaining the security, integrity, abuse prevention, and privacy-preserving local-network architecture of the App (**GDPR Article 6(1)(f)**).
 
-Where applicable law requires consent for a specific operation, we will rely on your consent. You may withdraw that consent by disabling iCloud for the App, resetting the App's device security settings, or uninstalling the App, although doing so may prevent device discovery or pairing from working.
+Where applicable law requires consent for a specific operation, **we will request and rely on your consent before that operation** (**GDPR Article 6(1)(a)**). You may withdraw that consent by disabling iCloud for the App, resetting the App's device security settings, or uninstalling the App, although doing so may prevent device discovery or pairing from working.
 
-For **voluntary email correspondence** (§4), the legal bases are performance of any support / pre-contractual / contractual obligation requested by you, and our legitimate interest in responding to inquiries and maintaining App security.
+For **voluntary email correspondence** (§4), the legal bases are performance of any support, pre-contractual, or contractual obligation requested by you (**GDPR Article 6(1)(b)**), and CONEX's legitimate interests in responding to inquiries and maintaining App security (**GDPR Article 6(1)(f)**).
 
 **EU representative.** CONEX has not currently designated a representative in the EEA. Based on CONEX's current assessment, the App is designed so that CONEX does not collect personal data on its own servers, and any processing for which CONEX may be regarded as responsible is limited, low-risk, and connected to local device discovery and security. We will reassess this position if our processing activities, user base, distribution regions, applicable guidance, or regulatory expectations materially change. This does not limit your right to contact us at **hearrelay-privacy@conex-cp.com** or to lodge a complaint with a competent supervisory authority.
 
@@ -202,7 +202,25 @@ To exercise any right, contact **hearrelay-privacy@conex-cp.com**. Please note t
 
 ## 13. Security
 
-We use industry-standard protections:
+### Data flow at a glance
+
+```text
+[Device A microphone]
+         |
+         | local processing only
+         v
+[Device A App] <─── same-Wi-Fi P2P encrypted channel ───> [Device B App]
+         |
+         | device-discovery metadata only (see §5)
+         v
+[Apple iCloud Key-Value Storage, Apple ID scope]
+
+[Apple App Store + In-App Purchase]   ─── Apple processes payments
+[CONEX server]                        ─── none
+[Third-party analytics / ads / tracking SDKs]   ─── none
+```
+
+### Technical protections
 
 - **HearRelay Secure Channel** (X25519 ECDH + ChaCha20-Poly1305 AEAD) for all device-to-device communication
 - **P-256** identity keys generated and stored in the **Secure Enclave** where supported, with a Keychain fallback

@@ -155,12 +155,12 @@ En la medida en que se considere a CONEX como responsable del tratamiento respec
 
 Las **bases jurídicas** son:
 
-- la **ejecución del contrato** de licencia de la app y de los servicios relacionados solicitados por usted, para permitir el descubrimiento de dispositivos, la autenticación y la comunicación local entre pares; y
-- los **intereses legítimos** de CONEX en mantener la seguridad, la integridad, la prevención del abuso y la arquitectura de red local respetuosa con la privacidad de la Aplicación.
+- la **ejecución del contrato** de licencia de la app y de los servicios relacionados solicitados por usted, para permitir el descubrimiento de dispositivos, la autenticación y la comunicación local entre pares (**Artículo 6, apartado 1, letra b) del RGPD**); y
+- los **intereses legítimos** de CONEX en mantener la seguridad, la integridad, la prevención del abuso y la arquitectura de red local respetuosa con la privacidad de la Aplicación (**Artículo 6, apartado 1, letra f) del RGPD**).
 
-Cuando la legislación aplicable exija el consentimiento para una operación específica, nos basaremos en su consentimiento. Puede retirar dicho consentimiento desactivando iCloud para la Aplicación, restableciendo los ajustes de seguridad del dispositivo de la Aplicación o desinstalando la Aplicación, aunque hacerlo puede impedir que el descubrimiento de dispositivos o el emparejamiento funcionen.
+Cuando la legislación aplicable exija el consentimiento para una operación específica, **solicitaremos su consentimiento antes de esa operación y nos basaremos en él** (**Artículo 6, apartado 1, letra a) del RGPD**). Puede retirar dicho consentimiento desactivando iCloud para la Aplicación, restableciendo los ajustes de seguridad del dispositivo de la Aplicación o desinstalando la Aplicación, aunque hacerlo puede impedir que el descubrimiento de dispositivos o el emparejamiento funcionen.
 
-Para la **correspondencia voluntaria por correo electrónico** (§4), las bases jurídicas son la ejecución de cualquier obligación de soporte / precontractual / contractual solicitada por usted, y nuestro interés legítimo en responder a las consultas y mantener la seguridad de la Aplicación.
+Para la **correspondencia voluntaria por correo electrónico** (§4), las bases jurídicas son la ejecución de cualquier obligación de soporte, precontractual o contractual solicitada por usted (**Artículo 6, apartado 1, letra b) del RGPD**), y los intereses legítimos de CONEX en responder a las consultas y mantener la seguridad de la Aplicación (**Artículo 6, apartado 1, letra f) del RGPD**).
 
 **Representante en la UE.** CONEX no ha designado actualmente un representante en el EEE. Con base en la evaluación actual de CONEX, la Aplicación está diseñada de modo que CONEX no recopila datos personales en sus propios servidores, y cualquier tratamiento del que pueda considerarse responsable a CONEX es limitado, de bajo riesgo y vinculado al descubrimiento local de dispositivos y a la seguridad. Reevaluaremos esta posición si nuestras actividades de tratamiento, base de usuarios, regiones de distribución, orientaciones aplicables o expectativas regulatorias cambian de forma material. Esto no limita su derecho a contactarnos en **hearrelay-privacy@conex-cp.com** ni a presentar una reclamación ante una autoridad de control competente.
 
@@ -204,7 +204,25 @@ Para ejercer cualquier derecho, contáctenos en **hearrelay-privacy@conex-cp.com
 
 ## 13. Seguridad
 
-Utilizamos protecciones estándar de la industria:
+### Visión general del flujo de datos
+
+```text
+[Micrófono del dispositivo A]
+         |
+         | solo procesamiento local
+         v
+[App del dispositivo A] <─── canal cifrado P2P en la misma Wi-Fi ───> [App del dispositivo B]
+         |
+         | solo metadatos de descubrimiento de dispositivos (consulte §5)
+         v
+[Almacenamiento clave-valor de Apple iCloud, ámbito del Apple ID]
+
+[Apple App Store + Compras Integradas]   ─── Apple procesa los pagos
+[Servidor de CONEX]                      ─── ninguno
+[SDK de terceros de análisis / publicidad / seguimiento]   ─── ninguno
+```
+
+### Protecciones técnicas
 
 - **HearRelay Secure Channel** (X25519 ECDH + ChaCha20-Poly1305 AEAD) para toda la comunicación entre dispositivos
 - Claves de identidad **P-256** generadas y almacenadas en el **Secure Enclave** cuando esté disponible, con respaldo en Keychain
