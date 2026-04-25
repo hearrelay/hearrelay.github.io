@@ -82,7 +82,12 @@ HearRelay 不内嵌任何用于分析、广告或追踪的第三方 SDK。
 
 **目的。**CONEX 仅将该等信息用于回复您的咨询、提供支持、调查安全问题、履行法律义务,以及保护本应用与我们的用户。我们**不会**将支持、隐私或安全相关的通信用于广告、追踪或画像分析。
 
-**服务提供商。**该等通信可能由我们的电子邮件、托管或安全报告服务提供商进行处理。视提供商而定,相关信息可能存储或处理于日本或其他国家。
+**服务提供商。**该等通信可能由我们的电子邮件、托管或安全报告服务提供商进行处理。
+
+- **邮件托管。**CONEX 使用 **Microsoft 365 Business**(由 **Microsoft Corporation** 运营)作为接收 `hearrelay-support@conex-cp.com`、`hearrelay-privacy@conex-cp.com` 及 `hearrelay-security@conex-cp.com` 的邮箱服务。由于 CONEX 的租户在**日本**开通,Microsoft 依据其[数据存放地承诺](https://learn.microsoft.com/microsoft-365/enterprise/m365-dr-service-exo),将 Exchange Online 邮箱内容(邮件正文、附件及日历条目)以**静态形式存储于日本境内**。
+- **网站 / 文件托管。**HearRelay 网站(<https://hearrelay.app/>)托管于 **GitHub Pages**(由 Microsoft Corporation 的子公司 **GitHub, Inc.** 运营),并通过 **Cloudflare, Inc.** 提供 DNS 解析与边缘路由服务。
+- **跨境传输的保护措施。**当 Microsoft、GitHub 或 Cloudflare 将个人数据传输至欧洲经济区(EEA)、英国或瑞士境外时,该等传输受 **Microsoft Products and Services Data Protection Addendum (DPA)** 以及 GitHub / Cloudflare 的数据处理附录(Data Processing Addenda)所涵盖,并酌情纳入 **EU Standard Contractual Clauses (SCCs)**。自欧盟向日本的传输,另受欧盟委员会针对日本的充分性认定(European Commission adequacy decision for Japan,2019 年作出,2024 年延展)所涵盖。
+- **次级处理者。**Microsoft 在 <https://aka.ms/subprocessor> 公布其当前的次级处理者清单。除上述提供商外,CONEX 自身不再聘用任何额外的次级处理者。
 
 **保留期限。** 我们仅在为通信提供之目的合理必要的期间内保留通信。通常情况下:
 

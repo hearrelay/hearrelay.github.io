@@ -80,7 +80,12 @@ No entanto, se você optar por entrar em contato com a CONEX por e-mail para sup
 
 **Finalidade.** A CONEX usa essas informações apenas para responder à sua consulta, prestar suporte, investigar questões de segurança, cumprir obrigações legais e proteger o Aplicativo e nossos usuários. **Não** usamos correspondência de suporte, privacidade ou segurança para publicidade, rastreamento ou perfilamento.
 
-**Prestadores de serviços.** Essas comunicações podem ser tratadas por nossos prestadores de serviços de e-mail, hospedagem ou recebimento de relatos de segurança. Dependendo do prestador, as informações podem ser armazenadas ou tratadas no Japão ou em outros países.
+**Operadores.** Essas comunicações podem ser tratadas por nossos operadores de serviços de e-mail, hospedagem ou recebimento de relatos de segurança.
+
+- **Hospedagem de e-mail.** A CONEX utiliza o **Microsoft 365 Business** (operado pela **Microsoft Corporation**) para as caixas de correio que recebem `hearrelay-support@conex-cp.com`, `hearrelay-privacy@conex-cp.com` e `hearrelay-security@conex-cp.com`. Como o tenant da CONEX está provisionado no **Japão**, a Microsoft armazena o conteúdo das caixas de correio do Exchange Online (corpo do e-mail, anexos e entradas de calendário) **em repouso no Japão**, em conformidade com os [compromissos de localização de dados](https://learn.microsoft.com/microsoft-365/enterprise/m365-dr-service-exo) da Microsoft.
+- **Hospedagem do site / documentos.** O site do HearRelay (<https://hearrelay.app/>) é hospedado no **GitHub Pages** (operado pelo **GitHub, Inc.**, subsidiária da Microsoft Corporation), com DNS e roteamento de borda por meio da **Cloudflare, Inc.**
+- **Salvaguardas para transferências internacionais.** Quando a Microsoft, o GitHub ou a Cloudflare transferem dados pessoais para fora do EEE, do Reino Unido ou da Suíça, a transferência é coberta pelo **Microsoft Products and Services Data Protection Addendum (DPA)** e pelos Data Processing Addenda do GitHub / Cloudflare, que incorporam, conforme aplicável, as **EU Standard Contractual Clauses (SCCs)**. As transferências da UE para o Japão são adicionalmente cobertas pela decisão de adequação da Comissão Europeia para o Japão (2019, prorrogada em 2024).
+- **Suboperadores.** A Microsoft publica sua lista atual de suboperadores em <https://aka.ms/subprocessor>. A CONEX não contrata nenhum suboperador adicional próprio além dos provedores listados acima.
 
 **Retenção.** Mantemos a correspondência apenas pelo tempo razoavelmente necessário para a finalidade para a qual foi fornecida. Em geral:
 

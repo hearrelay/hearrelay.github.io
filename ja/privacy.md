@@ -80,7 +80,12 @@ HearRelay(以下「本アプリ」)は、初期状態でプライバシーが保
 
 **目的。** 当社は、これらの情報を、お問い合わせへの回答、サポート提供、セキュリティ問題の調査、法令遵守、本アプリ及び利用者の保護のためにのみ利用します。当社は、サポート、プライバシー又はセキュリティに関する通信を、広告、トラッキング又はプロファイリングの目的で利用しません。
 
-**サービス提供者。** これらの通信は、当社が利用するメール、ホスティング又はセキュリティ報告関連サービスの提供者により処理される場合があります。利用するサービス提供者に応じて、日本その他の国で保存又は処理される場合があります。
+**サービス提供者。** これらの通信は、当社が利用するメール、ホスティング又はセキュリティ報告関連サービスの提供者により処理される場合があります。
+
+- **メールホスティング。** 当社は `hearrelay-support@conex-cp.com` / `hearrelay-privacy@conex-cp.com` / `hearrelay-security@conex-cp.com` の受信メールボックスとして、**Microsoft Corporation** が運営する **Microsoft 365 Business** を利用しています。当社のテナントは**日本**でプロビジョニングされているため、Exchange Online のメールボックス内容(メール本文、添付ファイル、カレンダー)は Microsoft の [データ保管地域に関する取扱い](https://learn.microsoft.com/microsoft-365/enterprise/m365-dr-service-exo)に従い、**日本国内に at rest で保管**されます。
+- **ウェブサイト / 文書ホスティング。** HearRelay ウェブサイト(<https://hearrelay.app/>)は、Microsoft Corporation の子会社 **GitHub, Inc.** が運営する **GitHub Pages** にホストされ、DNS とエッジ経路に **Cloudflare, Inc.** を利用しています。
+- **越境移転時の保護措置。** Microsoft、GitHub 又は Cloudflare が EEA、英国又はスイス外へ個人データを移転する場合、当該移転には **Microsoft Products and Services Data Protection Addendum(DPA)** 及び GitHub / Cloudflare の Data Processing Addenda が適用され、必要に応じて **EU 標準契約条項(SCCs)** が組み込まれます。EU から日本への移転については、欧州委員会の対日十分性認定(2019 年発効、2024 年延長)も追加的な根拠となります。
+- **下請事業者(Sub-processors)。** Microsoft は現行の下請事業者一覧を <https://aka.ms/subprocessor> で公開しています。当社は上記サービス提供者を超える独自の下請事業者を起用していません。
 
 **保持期間。** 当社は、お問い合わせ内容を、その提供目的のために合理的に必要な期間に限って保持します。通常は以下を目安とします。
 

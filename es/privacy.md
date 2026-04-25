@@ -80,7 +80,12 @@ No obstante, si usted decide contactar a CONEX por correo electrónico para sopo
 
 **Finalidad.** CONEX utiliza esta información únicamente para responder a su consulta, brindar soporte, investigar incidentes de seguridad, cumplir con obligaciones legales y proteger la Aplicación y a nuestros usuarios. **No** utilizamos la correspondencia de soporte, privacidad o seguridad para publicidad, rastreo o elaboración de perfiles.
 
-**Encargados del tratamiento.** Estas comunicaciones pueden ser procesadas por nuestros proveedores de correo electrónico, alojamiento o reporte de seguridad. Dependiendo del proveedor, la información puede almacenarse o procesarse en Japón u otros países.
+**Proveedores de servicios.** Estas comunicaciones pueden ser procesadas por nuestros proveedores de correo electrónico, alojamiento o reporte de seguridad.
+
+- **Alojamiento de correo electrónico.** CONEX utiliza **Microsoft 365 Business** (operado por **Microsoft Corporation**) para los buzones que reciben `hearrelay-support@conex-cp.com`, `hearrelay-privacy@conex-cp.com` y `hearrelay-security@conex-cp.com`. Dado que el tenant de CONEX está aprovisionado en **Japón**, Microsoft almacena el contenido de los buzones de Exchange Online (cuerpo del correo, archivos adjuntos y entradas de calendario) **en reposo dentro de Japón**, conforme a los [compromisos de ubicación de datos](https://learn.microsoft.com/microsoft-365/enterprise/m365-dr-service-exo) de Microsoft.
+- **Alojamiento del sitio web / documentos.** El sitio web de HearRelay (<https://hearrelay.app/>) está alojado en **GitHub Pages** (operado por **GitHub, Inc.**, una subsidiaria de Microsoft Corporation), con DNS y enrutamiento de borde a través de **Cloudflare, Inc.**
+- **Garantías para transferencias internacionales.** Cuando Microsoft, GitHub o Cloudflare transfieren datos personales fuera del EEE, el Reino Unido o Suiza, la transferencia está cubierta por el **Microsoft Products and Services Data Protection Addendum (DPA)** y por los Data Processing Addenda de GitHub / Cloudflare, que incorporan las **EU Standard Contractual Clauses (SCCs)** según corresponda. Las transferencias desde la UE hacia Japón están cubiertas adicionalmente por la European Commission adequacy decision for Japan (2019, ampliada en 2024).
+- **Subencargados.** Microsoft publica su lista actual de subencargados en <https://aka.ms/subprocessor>. CONEX no contrata ningún subencargado adicional propio más allá de los proveedores enumerados anteriormente.
 
 **Retención.** Conservamos la correspondencia únicamente durante el tiempo razonablemente necesario para el fin para el que se proporcionó. En general:
 

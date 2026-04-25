@@ -78,7 +78,12 @@ However, if you choose to contact CONEX by email for support, privacy requests, 
 
 **Purpose.** CONEX uses this information only to respond to your inquiry, provide support, investigate security issues, comply with legal obligations, and protect the App and our users. We do **not** use support, privacy, or security correspondence for advertising, tracking, or profiling.
 
-**Service providers.** These communications may be processed by our email, hosting, or security-reporting service providers. Depending on the provider, the information may be stored or processed in Japan or other countries.
+**Service providers.** These communications may be processed by our email, hosting, or security-reporting service providers.
+
+- **Email hosting.** CONEX uses **Microsoft 365 Business** (operated by **Microsoft Corporation**) for the mailboxes that receive `hearrelay-support@conex-cp.com`, `hearrelay-privacy@conex-cp.com`, and `hearrelay-security@conex-cp.com`. Because the CONEX tenant is provisioned in **Japan**, Microsoft stores Exchange Online mailbox content (email body, attachments, and calendar entries) **at rest within Japan**, in accordance with Microsoft's [data-location commitments](https://learn.microsoft.com/microsoft-365/enterprise/m365-dr-service-exo).
+- **Website / document hosting.** The HearRelay website (<https://hearrelay.app/>) is hosted on **GitHub Pages** (operated by **GitHub, Inc.**, a subsidiary of Microsoft Corporation), with DNS and edge routing through **Cloudflare, Inc.**
+- **Cross-border safeguards.** Where Microsoft, GitHub, or Cloudflare transfers personal data outside the EEA, the United Kingdom, or Switzerland, the transfer is covered by the **Microsoft Products and Services Data Protection Addendum (DPA)** and the GitHub / Cloudflare Data Processing Addenda, which incorporate the **EU Standard Contractual Clauses (SCCs)** as appropriate. Transfers from the EU to Japan are additionally covered by the European Commission's adequacy decision for Japan (2019, extended 2024).
+- **Sub-processors.** Microsoft publishes its current sub-processor list at <https://aka.ms/subprocessor>. CONEX does not engage any additional sub-processor of its own beyond the providers listed above.
 
 **Retention.** We retain correspondence only for as long as reasonably necessary for the purpose for which it was provided. In general:
 
