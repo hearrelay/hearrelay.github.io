@@ -3,11 +3,25 @@ title: Assistance — HearRelay
 lang: fr
 ---
 
+> La présente version française est fournie à titre de commodité. En cas de divergence ou d'incohérence entre cette version et la version anglaise, la version anglaise prévaut dans la mesure permise par le droit applicable. Cette règle de préséance ne limite pas les droits que vous accorde le droit impératif en matière de protection des consommateurs, de la vie privée ou des données.
+
 # Assistance
 
-Merci d'utiliser **HearRelay**. Cette page rassemble des conseils de dépannage et les moyens de nous contacter.
+Merci d'utiliser **HearRelay**. Cette page rassemble des conseils de dépannage, des avertissements importants concernant un usage licite, et nos coordonnées.
 
-> Cette traduction est fournie à titre de commodité. En cas de divergence avec la [version anglaise](/en/support/), la version anglaise prévaut.
+---
+
+## Avertissements importants
+
+### Les lois sur l'enregistrement et la surveillance varient selon les lieux
+
+Les lois relatives à l'enregistrement et à la surveillance en direct varient selon le pays, l'État, la province et le lieu d'utilisation. Certains lieux exigent le consentement de **toutes** les parties avant tout enregistrement. La surveillance dans un lieu de travail, une école, une location, un cadre médical, de soin aux personnes âgées, de garde d'enfants ou un espace public peut nécessiter une notification spécifique, un consentement écrit ou une autorisation. **N'enregistrez pas de conversations ni d'espaces privés à moins d'y être légalement autorisé.** En cas de doute, n'enregistrez pas.
+
+Il vous appartient de vous assurer que tout enregistrement ou toute surveillance en direct que vous effectuez avec HearRelay est conforme à l'ensemble du droit applicable. Voir la liste des usages interdits aux [Conditions d'utilisation §3](/fr/terms/).
+
+### HearRelay n'est pas un dispositif de sécurité, médical ou d'urgence
+
+HearRelay est un utilitaire grand public destiné à une surveillance de commodité. Ce n'est **pas** un dispositif médical, un dispositif d'urgence, une alarme de sécurité, un dispositif de sécurité pour enfants, un dispositif de sécurité pour personnes âgées, un dispositif de maintien des fonctions vitales, ni un équipement certifié pour un usage critique de sécurité. **N'utilisez jamais HearRelay comme moyen unique de surveillance ou de détection d'urgence.** Combinez-le toujours avec une surveillance directe responsable et tout équipement de sécurité certifié à cet effet.
 
 ---
 
@@ -17,9 +31,9 @@ Merci d'utiliser **HearRelay**. Cette page rassemble des conseils de dépannage 
 
 Les deux appareils doivent :
 
-1. Être connectés à **le même identifiant Apple**
+1. Être connectés au **même Apple ID**
 2. Être connectés au **même réseau Wi-Fi** (même sous-réseau)
-3. Avoir **iCloud** activé dans les réglages iOS
+3. Avoir **iCloud** activé dans les Réglages iOS
 4. Avoir accordé à HearRelay les autorisations **Microphone** et **Réseau local**
 
 Si vous ne voyez toujours pas l'autre appareil, appuyez sur le bouton d'actualisation du sélecteur d'appairage, ou redémarrez l'Application sur les deux appareils.
@@ -30,25 +44,45 @@ Si vous ne voyez toujours pas l'autre appareil, appuyez sur le bouton d'actualis
 - Des écouteurs Bluetooth à faible réception peuvent introduire des coupures — essayez un modèle filaire ou un autre modèle
 - Un trafic réseau intense (téléchargements volumineux, visioconférences) sur le même Wi-Fi peut affecter l'audio en temps réel
 
-### Le son des AirPods est étrangement de mauvaise qualité en mode Standalone
+### Le son provenant des AirPods est étrangement de mauvaise qualité en mode Standalone
 
 HearRelay restreint le microphone au **micro intégré** en mode Standalone afin d'éviter de forcer le Bluetooth dans un mode à faible bande passante (HFP). Utilisez le micro intégré en entrée et les AirPods uniquement en sortie. Cela est voulu.
 
 ### Mon enregistrement n'est plus là
 
-Les enregistrements sont automatiquement supprimés **24 heures après leur création** sauf si vous appuyez sur **Conserver**. Une fois conservés, ils restent jusqu'à ce que vous les supprimiez.
+Les enregistrements sont automatiquement supprimés **24 heures après leur création** sauf si vous appuyez sur **Conserver** sur l'enregistrement. Une fois conservés, ils restent jusqu'à ce que vous les supprimiez.
 
 ### HearRelay a cessé d'enregistrer lorsque j'ai verrouillé l'écran
 
-HearRelay continue de capturer et de retransmettre l'audio en arrière-plan même lorsque l'écran est verrouillé. Si la capture s'arrête :
+HearRelay continue de capturer et de retransmettre l'audio en arrière-plan lorsque l'écran est verrouillé. Si la capture s'arrête :
 
-- Vérifiez que l'**actualisation en arrière-plan** est autorisée pour HearRelay (Réglages iOS → Général → Actualisation en arrière-plan)
+- Vérifiez que **Background App Refresh** est autorisé pour HearRelay (Réglages iOS → Général → Background App Refresh)
 - Vérifiez que le **mode économie d'énergie** ne suspend pas agressivement les tâches en arrière-plan
 - Certaines versions d'iOS suspendent les sessions audio lorsqu'une autre application audio prend le relais — arrêtez cette autre application
 
-### L'icône dans l'Île Dynamique / l'écran verrouillé a disparu
+### L'icône dans Dynamic Island / l'écran verrouillé a disparu
 
-Les activités en direct ont une durée maximale imposée par l'OS (environ 8 heures). Une fois cette durée atteinte, l'indicateur peut cesser de se mettre à jour même si HearRelay continue de fonctionner. Rouvrez l'Application pour rafraîchir.
+Les Live Activities ont une durée maximale imposée par l'OS (environ 8 heures). Une fois cette durée atteinte, l'indicateur peut cesser de se mettre à jour même si HearRelay continue de fonctionner. Rouvrez l'Application pour rafraîchir.
+
+---
+
+## Achats et abonnements
+
+### HearRelay est-il un abonnement ?
+
+**Non.** HearRelay Full Access est un **achat unique non consommable** (un IAP de type achat ferme). Ce n'est **pas** un abonnement à renouvellement automatique. Après la période d'essai gratuite de 14 jours, un achat unique débloque l'Application aussi longtemps que vous restez connecté à votre Apple ID.
+
+### Family Sharing
+
+Le déverrouillage est activé pour **Family Sharing**, ce qui permet aux membres de votre groupe Family Sharing d'utiliser HearRelay Full Access sans coût supplémentaire.
+
+### Comment restaurer un achat antérieur ?
+
+Ouvrez l'Application → appuyez sur la bannière verrouillée → **Restore Purchases**. Apple vérifiera dans votre Apple ID le déverrouillage antérieur et le réappliquera.
+
+### Comment obtenir un remboursement ?
+
+Apple traite tous les paiements de l'App Store et est seul responsable des remboursements. Utilisez le canal standard d'Apple : <https://reportaproblem.apple.com>.
 
 ---
 
@@ -59,7 +93,7 @@ Les activités en direct ont une durée maximale imposée par l'OS (environ 8 he
 | Microphone | Toute surveillance | Réglages → HearRelay → Microphone |
 | Réseau local | Mode appairé (envoi / réception avec d'autres appareils) | Réglages → HearRelay → Réseau local |
 | iCloud (connecté) | Mode appairé (découvrir vos autres appareils) | Réglages → \[Votre nom\] → iCloud |
-| Actualisation en arrière-plan | Surveillance continue avec l'écran éteint | Réglages → Général → Actualisation en arrière-plan |
+| Background App Refresh | Surveillance continue avec l'écran éteint | Réglages → Général → Background App Refresh |
 
 Si le réseau local ou iCloud n'est pas disponible, vous pouvez toujours utiliser le mode **Standalone**.
 
@@ -75,4 +109,6 @@ Pour les signalements de sécurité, voir la [page Sécurité](/fr/security/) ou
 
 ---
 
-**English version:** [Support](/en/support/)
+**Traductions disponibles :** [日本語](/ja/support/) · [Français](/fr/support/) · [Español](/es/support/) · [Português (Brasil)](/pt-BR/support/) · [简体中文](/zh-Hans/support/)
+
+Lorsque la présente page est fournie dans une langue autre que l'anglais, la **version anglaise prévaut** dans la mesure permise par le droit applicable. Cette règle de préséance ne limite pas les droits que vous accordent les lois impératives de protection des consommateurs, de la vie privée ou des données de votre pays ou région.

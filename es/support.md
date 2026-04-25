@@ -3,17 +3,31 @@ title: Soporte — HearRelay
 lang: es
 ---
 
+> Esta versión en español se proporciona por conveniencia. En caso de divergencia o discrepancia entre esta versión y la versión en inglés, la versión en inglés prevalecerá en la medida permitida por la ley aplicable. Esta regla de precedencia no limita los derechos que le otorgan las leyes imperativas de protección al consumidor, privacidad o protección de datos.
+
 # Soporte
 
-Gracias por usar **HearRelay**. Esta página reúne consejos de resolución de problemas y cómo contactarnos.
+Gracias por usar **HearRelay**. Esta página reúne consejos de resolución de problemas, avisos importantes sobre el uso lícito y cómo contactarnos.
 
-> Esta traducción se proporciona por conveniencia. En caso de discrepancia con la [versión en inglés](/en/support/), prevalecerá la versión en inglés.
+---
+
+## Avisos importantes
+
+### Las leyes de grabación y monitoreo varían según el lugar
+
+Las leyes sobre grabación y monitoreo en vivo varían según el país, estado, provincia y lugar de uso. Algunos lugares exigen el consentimiento de **todas** las partes antes de grabar. El monitoreo en lugares de trabajo, escuelas, alojamientos en alquiler, ámbitos médicos, cuidado de personas mayores, cuidado infantil y espacios públicos puede requerir avisos especiales, consentimiento por escrito o autorización. **No grabe conversaciones ni espacios privados a menos que tenga permitido legalmente hacerlo.** En caso de duda, no grabe.
+
+Usted es responsable de confirmar que cualquier grabación o monitoreo en vivo que realice con HearRelay cumple con toda la ley aplicable. Consulte la [Sección 3 de las Condiciones de uso](/es/terms/) para conocer la lista de usos prohibidos.
+
+### HearRelay no es un dispositivo de seguridad, médico ni de emergencia
+
+HearRelay es una utilidad de consumo para monitoreo de conveniencia. **No** es un dispositivo médico, un dispositivo de emergencia, una alarma de seguridad, un dispositivo de seguridad para el cuidado infantil, un dispositivo de seguridad para el cuidado de personas mayores, un dispositivo de soporte vital, ni ningún equipo certificado para uso crítico de seguridad. **Nunca utilice HearRelay como único medio de supervisión o detección de emergencias.** Combínelo siempre con una supervisión directa responsable y con cualquier equipo de seguridad certificado para tal fin.
 
 ---
 
 ## Ayuda rápida
 
-### "No se han encontrado dispositivos" al intentar emparejar
+### «No se han encontrado dispositivos» al intentar emparejar
 
 Ambos dispositivos deben:
 
@@ -36,19 +50,39 @@ HearRelay restringe el micrófono al **micrófono integrado** en modo Standalone
 
 ### La grabación no se ha conservado
 
-Las grabaciones se eliminan automáticamente **24 horas después de su creación** a menos que pulse **Conservar**. Una vez conservadas, permanecen hasta que usted las elimine.
+Las grabaciones se eliminan automáticamente **24 horas después de su creación** a menos que pulse **Conservar** sobre la grabación. Una vez conservadas, permanecen hasta que usted las elimine.
 
 ### HearRelay dejó de grabar cuando bloqueé la pantalla
 
 HearRelay continúa capturando y retransmitiendo audio en segundo plano mientras la pantalla está bloqueada. Si la captura se detiene:
 
-- Asegúrese de que **Actualización en segundo plano** esté permitida para HearRelay (Ajustes iOS → General → Actualización en segundo plano)
+- Asegúrese de que **Background App Refresh** esté permitida para HearRelay (Ajustes de iOS → General → Background App Refresh)
 - Asegúrese de que el **modo de bajo consumo** no esté suspendiendo agresivamente las tareas en segundo plano
 - Algunas versiones de iOS suspenden las sesiones de audio cuando otra app de audio toma el control — detenga esa otra app
 
 ### El icono en la Isla Dinámica / pantalla bloqueada ha desaparecido
 
 Las Live Activities tienen una duración máxima impuesta por el sistema (alrededor de 8 horas). Una vez alcanzada, el indicador puede dejar de actualizarse aunque HearRelay siga funcionando. Vuelva a abrir la Aplicación para refrescarlo.
+
+---
+
+## Compras y suscripciones
+
+### ¿HearRelay es una suscripción?
+
+**No.** HearRelay Full Access es una **compra única, no consumible** (una IAP de pago único). **No** es una suscripción de renovación automática. Tras el periodo de prueba gratuito de 14 días, una sola compra desbloquea la Aplicación durante todo el tiempo en que mantenga su sesión iniciada con su Apple ID.
+
+### Family Sharing
+
+El desbloqueo está habilitado para **Family Sharing**, de modo que los miembros de su grupo de Family Sharing pueden usar HearRelay Full Access sin coste adicional.
+
+### ¿Cómo restauro una compra anterior?
+
+Abra la Aplicación → pulse el banner bloqueado → **Restore Purchases**. Apple verificará en su Apple ID el desbloqueo previo y lo volverá a aplicar.
+
+### ¿Cómo obtengo un reembolso?
+
+Apple procesa todos los pagos de la App Store y es la única responsable de los reembolsos. Use el canal estándar de Apple: <https://reportaproblem.apple.com>.
 
 ---
 
@@ -59,7 +93,7 @@ Las Live Activities tienen una duración máxima impuesta por el sistema (alrede
 | Micrófono | Cualquier monitoreo | Ajustes → HearRelay → Micrófono |
 | Red local | Modo emparejado (envío / recepción con otros dispositivos) | Ajustes → HearRelay → Red local |
 | iCloud (con sesión iniciada) | Modo emparejado (descubrir sus otros dispositivos) | Ajustes → \[Su nombre\] → iCloud |
-| Actualización en segundo plano | Monitoreo continuo con la pantalla apagada | Ajustes → General → Actualización en segundo plano |
+| Background App Refresh | Monitoreo continuo con la pantalla apagada | Ajustes → General → Background App Refresh |
 
 Si no está disponible Red local o iCloud, aún puede usar el modo **Standalone**.
 
@@ -75,4 +109,6 @@ Para reportes de seguridad, vea la [página de Seguridad](/es/security/) o escri
 
 ---
 
-**English version:** [Support](/en/support/)
+**Las traducciones están disponibles en:** [日本語](/ja/support/) · [Français](/fr/support/) · [Español](/es/support/) · [Português (Brasil)](/pt-BR/support/) · [简体中文](/zh-Hans/support/)
+
+Cuando esta página se proporcione en cualquier idioma distinto al inglés, la **versión en inglés prevalecerá** en la medida permitida por la ley aplicable. Esta regla de precedencia no limita los derechos que le otorgan las leyes imperativas de protección al consumidor, privacidad o protección de datos de su país o región.

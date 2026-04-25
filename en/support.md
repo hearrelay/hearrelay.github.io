@@ -5,7 +5,21 @@ lang: en
 
 # Support
 
-Thanks for using **HearRelay**. This page gathers troubleshooting tips and how to get in touch.
+Thanks for using **HearRelay**. This page gathers troubleshooting tips, important notices about lawful use, and how to get in touch.
+
+---
+
+## Important notices
+
+### Recording and monitoring laws differ by place
+
+Recording and live-monitoring laws vary by country, state, province, and place of use. Some places require consent from **all** parties before recording. Workplace, school, rental, medical, eldercare, childcare, and public-space monitoring may require special notice, written consent, or permission. **Do not record conversations or private spaces unless you are legally allowed to do so.** When in doubt, do not record.
+
+You are responsible for confirming that any recording or live-monitoring you perform with HearRelay complies with all applicable law. See [Terms of Use §3](/en/terms/) for the prohibited-use list.
+
+### HearRelay is not a safety, medical, or emergency device
+
+HearRelay is a consumer utility for convenience monitoring. It is **not** a medical device, an emergency device, a security alarm, a childcare safety device, an eldercare safety device, a life-support device, or any equipment certified for safety-critical use. **Never use HearRelay as the sole means of supervision or emergency detection.** Always combine it with responsible direct supervision and any safety equipment certified for the purpose.
 
 ---
 
@@ -50,6 +64,26 @@ Live Activities have an OS-imposed maximum duration (around 8 hours). Once reach
 
 ---
 
+## Purchases and subscriptions
+
+### Is HearRelay a subscription?
+
+**No.** HearRelay Full Access is a **Non-Consumable, one-time purchase** (a buy-out IAP). It is **not** an auto-renewing subscription. After the 14-day free trial, a single purchase unlocks the App for as long as you remain signed in to your Apple ID.
+
+### Family Sharing
+
+The unlock is enabled for **Family Sharing**, so members of your Family Sharing group can use HearRelay Full Access at no extra cost.
+
+### How do I restore a previous purchase?
+
+Open the App → tap the locked banner → **Restore Purchases**. Apple will check your Apple ID for the previous unlock and re-apply it.
+
+### How do I get a refund?
+
+Apple processes all App Store payments and is solely responsible for refunds. Use Apple's standard channel: <https://reportaproblem.apple.com>.
+
+---
+
 ## Permissions checklist
 
 | Permission | Required for | Setting path |
@@ -73,4 +107,6 @@ For security reports, see the [Security page](/en/security/) or email **hearrela
 
 ---
 
-**日本語版:** [サポート](/ja/support/)
+**Translations are available in:** [日本語](/ja/support/) · [Français](/fr/support/) · [Español](/es/support/) · [Português (Brasil)](/pt-BR/support/) · [简体中文](/zh-Hans/support/)
+
+Where this page is provided in any language other than English, the **English version controls** to the extent permitted by applicable law. This precedence rule does not limit any rights granted to you by mandatory consumer-protection, privacy, or data-protection laws of your country or region.

@@ -3,11 +3,11 @@ title: Seguridad — HearRelay
 lang: es
 ---
 
+> Esta versión en español se proporciona por conveniencia. En caso de divergencia o discrepancia entre esta versión y la versión en inglés, la versión en inglés prevalecerá en la medida permitida por la ley aplicable. Esta regla de precedencia no limita los derechos que le otorgan las leyes imperativas de protección al consumidor, privacidad o protección de datos.
+
 # Seguridad
 
 Gracias por ayudarnos a mantener seguros a los usuarios de HearRelay. Esta página explica cómo reportar vulnerabilidades y resume la postura de seguridad de HearRelay.
-
-> Esta traducción se proporciona por conveniencia. En caso de discrepancia con la [versión en inglés](/en/security/), prevalecerá la versión en inglés.
 
 ---
 
@@ -21,9 +21,24 @@ Envíe un correo a **hearrelay-security@conex-cp.com** con la siguiente informac
 - Cualquier mitigación sugerida que tenga en mente
 - Si desea recibir crédito público
 
-Preferimos el correo para el reporte inicial. Si es necesario, podemos habilitar un **GitHub Security Advisory (divulgación privada)** para coordinar el seguimiento.
+Preferimos el correo para el reporte inicial. Si es necesario, podemos habilitar un **GitHub Security Advisory (Divulgación Privada)** para coordinar el seguimiento.
 
 **No publique** los detalles de una vulnerabilidad antes de que hayamos tenido la oportunidad de responder y publicar una corrección.
+
+---
+
+## Refugio seguro para investigación de seguridad de buena fe
+
+Actualmente no ofrecemos un programa de recompensas por errores ni recompensas monetarias.
+
+Al probar o reportar vulnerabilidades, le pedimos que:
+
+- **No** acceda, modifique, elimine ni extraiga datos que no le pertenezcan.
+- **No** realice pruebas de denegación de servicio, spam, phishing, ataques de ingeniería social ni ningún ataque físico.
+- **No** pruebe contra los servicios de Apple, hardware de terceros ni ningún sistema que no sea de su propiedad.
+- Limite las pruebas a sus propios dispositivos y a su propia Apple ID.
+
+Si presenta un reporte de buena fe dentro del alcance de esta política y cumple con estas reglas, **CONEX no emprenderá intencionalmente acciones legales en su contra basadas únicamente en dicho reporte**, sujeto a la ley aplicable. Este compromiso de refugio seguro no renuncia a ningún derecho que usted tenga bajo la ley aplicable y no obliga a ningún tercero (incluido Apple).
 
 ---
 
@@ -32,7 +47,7 @@ Preferimos el correo para el reporte inicial. Si es necesario, podemos habilitar
 Entran en el alcance de los reportes:
 
 - La aplicación HearRelay para iOS / iPadOS
-- El handshake criptográfico y el transporte TLS utilizado entre dispositivos emparejados
+- El handshake del HearRelay Secure Channel (X25519 ECDH + P-256 ECDSA + ChaCha20-Poly1305 AEAD)
 - El proceso de descubrimiento de pares basado en iCloud Key-Value Storage
 - La gestión local de archivos (almacenamiento de grabaciones y borrado automático)
 - El sitio web del proyecto en `hearrelay.app`
@@ -73,11 +88,13 @@ Son objetivos, no garantías.
 
 HearRelay está diseñada en torno a tres principios:
 
-1. **Minimización de datos** — ningún audio ni grabación sale de su dispositivo; no hay SDK de analítica ni publicidad.
+1. **Minimización de datos** — el audio y las grabaciones nunca salen de su dispositivo; no hay SDK de analítica ni publicidad.
 2. **Solo red local** — los dispositivos emparejados se comunican exclusivamente por la misma Wi-Fi / red local, nunca por Internet.
-3. **Identidad criptográfica del par** — los dispositivos se identifican mutuamente con claves **Curve25519 / P-256**, protegidas en el **Secure Enclave** cuando es posible, y se descubren mediante iCloud Key-Value Storage con el alcance de su Apple ID.
+3. **Identidad criptográfica del par** — los dispositivos se identifican mutuamente con claves de firma **P-256** (almacenadas en el **Secure Enclave** cuando esté disponible, con respaldo en Keychain), y se descubren mediante iCloud Key-Value Storage con el alcance de su Apple ID.
 
-El transporte se cifra con **TLS 1.3** utilizando solo las suites AEAD proporcionadas por iOS.
+El transporte utiliza el **HearRelay Secure Channel**: X25519 ECDH para el acuerdo de claves con secreto hacia adelante, ChaCha20-Poly1305 AEAD con protección contra repetición y nonces derivados de un contador por trama.
+
+Puede rotar la clave de identidad de su dispositivo, olvidar un dispositivo par o borrar todo el estado de seguridad del dispositivo en cualquier momento desde **Ajustes → Seguridad** dentro de la Aplicación.
 
 Para una descripción interna más completa, consulte la documentación de diseño del proyecto.
 
@@ -90,4 +107,6 @@ Para una descripción interna más completa, consulte la documentación de dise�
 
 ---
 
-**English version:** [Security](/en/security/)
+**Las traducciones están disponibles en:** [日本語](/ja/security/) · [Français](/fr/security/) · [Español](/es/security/) · [Português (Brasil)](/pt-BR/security/) · [简体中文](/zh-Hans/security/)
+
+Cuando esta página se proporcione en cualquier idioma distinto al inglés, la **versión en inglés prevalecerá** en la medida permitida por la ley aplicable. Esta regla de precedencia no limita los derechos que le otorgan las leyes imperativas de protección al consumidor, privacidad o protección de datos de su país o región.

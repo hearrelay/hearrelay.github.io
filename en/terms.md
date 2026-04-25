@@ -5,10 +5,10 @@ lang: en
 
 # Terms of Use
 
-**Effective date: 2026-04-24**
-**Last updated: 2026-04-24**
+**Effective date: 2026-04-25**
+**Last updated: 2026-04-25**
 
-These Terms of Use ("Terms") govern your use of the HearRelay application ("the App") provided by **CONEX Corporation** (株式会社CONEX), a company incorporated in Japan (the "Developer", "we", "us"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not install or use the App.
+These Terms of Use ("Terms") govern your use of the HearRelay application ("the App") provided by **CONEX Corporation** (株式会社CONEX), a company incorporated in Japan ("the Developer", "we", "us", "CONEX"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not install or use the App.
 
 These Terms supplement, and do not replace, the Apple-licensed Application End User License Agreement ("Standard EULA") that governs all apps distributed through the App Store. In case of conflict, the stricter provision applies. The Standard EULA is available at <https://www.apple.com/legal/internet-services/itunes/dev/stdeula/>.
 
@@ -24,9 +24,9 @@ We grant you a personal, non-transferable, non-exclusive, revocable license to i
 
 ### 2.1 Not a medical, safety, or life-critical device
 
-HearRelay is a **consumer utility** for real-time audio monitoring. It is **not** a medical device, a safety monitoring device, a life-support device, a childcare safety device, an intruder alarm, or equipment designed for hazardous environments. You must not rely on HearRelay alone for any decision where failure to hear a sound could result in harm, injury, or loss of life.
+HearRelay is a **consumer utility** for real-time audio monitoring. It is **not** a medical device, an emergency device, a security alarm, a childcare safety device, an eldercare safety device, a life-support device, or equipment designed for hazardous environments. **You must not use HearRelay as the sole means of supervision, emergency detection, or any decision where failure to hear a sound could result in harm, injury, or loss of life.**
 
-Use HearRelay as a convenience, in combination with — and never as a replacement for — responsible direct supervision.
+Use HearRelay as a convenience, in combination with — and never as a replacement for — responsible direct supervision and any safety equipment certified for the purpose.
 
 ### 2.2 Best-effort operation
 
@@ -34,27 +34,35 @@ HearRelay depends on third-party factors outside our control, including the perf
 
 ---
 
-## 3. Your responsibilities when recording or monitoring others
+## 3. Recording, monitoring, and background audio capture
 
-### 3.1 Recording consent
+### 3.1 You are responsible for legality and consent
 
-Laws regarding audio recording vary by country, state, and province. In many jurisdictions, recording a conversation or the sounds of a place without the knowledge or consent of the people involved is **illegal**, even in your own home if others are present. You are solely responsible for:
+Recording and monitoring laws vary by country, state, province, region, and place of use. **Before using recording or live monitoring, you must confirm that you have all legally required notices, consents, and permissions.** Some jurisdictions require consent from all parties; others require notice to a workplace, school, rental, medical, care, or public space.
 
-- Understanding the laws that apply to you and the people whose sounds may be captured
-- Obtaining any required consent before recording
+You alone are responsible for:
+
+- Understanding the laws that apply to you and to the people whose sounds may be captured
+- Obtaining any required consent before recording or live-monitoring
 - Using HearRelay only in a manner that complies with applicable law
 
-### 3.2 Privacy of others
+When in doubt, do not record.
 
-Even where recording is lawful, please respect the privacy of others. Do not use HearRelay to:
+### 3.2 Prohibited uses
 
-- Monitor or record people without their knowledge where they have a reasonable expectation of privacy
-- Engage in stalking, harassment, coercion, or any form of unlawful surveillance
-- Assist with any activity that would be illegal if performed without technology
+You must **not** use HearRelay for:
+
+- Covert surveillance, secret recording, or eavesdropping
+- Stalking, harassment, intimidation, or coercion
+- Workplace, school, rental, medical, or eldercare monitoring without all required notices and consents
+- Recording in spaces where the people involved have a reasonable expectation of privacy and have not consented
+- Any other monitoring that is unlawful where you are or where the captured sounds originate
+- As the sole means of safety supervision (see §2.1)
+- Use of the App's background-audio capability to bypass any of the above
 
 ### 3.3 Workplace and commercial use
 
-HearRelay is licensed for personal use. If you intend to use it in a workplace, for commercial purposes, or as part of a service you provide to others, additional legal obligations may apply to you, and you must ensure you comply with them before doing so.
+HearRelay is licensed for personal use. If you intend to use it in a workplace, for commercial purposes, or as part of a service you provide to others, additional legal obligations may apply, and you must ensure you comply with them before doing so.
 
 ---
 
@@ -86,13 +94,23 @@ The App does not provide cloud backup. You are responsible for exporting any rec
 
 ---
 
-## 6. Third-party services
+## 6. Purchases and the App Store
 
-The App relies on certain Apple-provided services (Apple ID, iCloud Key-Value Storage, Bluetooth audio routing, App Store distribution). Your use of those services is governed by Apple's own terms. The Developer is not responsible for the availability or performance of Apple services.
+The App is distributed through the App Store. **HearRelay Full Access is a Non-Consumable, one-time purchase, not an auto-renewing subscription.** A 14-day free trial is offered as an in-app feature gate; no purchase is required to begin the trial. Prices, taxes, refunds, and billing are processed by **Apple** under the App Store and Apple Media Services Terms. CONEX does not receive payment card numbers or billing details.
+
+You can restore a previous purchase using the **Restore Purchases** option in the App. Family Sharing is enabled for the unlock; sharing is governed by Apple's Family Sharing terms.
+
+Apple is solely responsible for refund requests; you can submit refund requests through Apple's standard channels (e.g. <https://reportaproblem.apple.com>).
 
 ---
 
-## 7. Intellectual property
+## 7. Third-party services
+
+The App relies on certain Apple-provided services (Apple ID, iCloud Key-Value Storage, Bluetooth audio routing, App Store distribution, In-App Purchase). Your use of those services is governed by Apple's own terms. The Developer is not responsible for the availability or performance of Apple services.
+
+---
+
+## 8. Intellectual property
 
 The App, its source code, name, logo, icons, text content, and documentation are owned by the Developer and protected by copyright, trademark, and other laws. These Terms do not transfer any intellectual property rights to you except for the limited license described in Section 1.
 
@@ -100,7 +118,7 @@ The name "HearRelay" is a trademark claimed by the Developer.
 
 ---
 
-## 8. Disclaimer of warranties
+## 9. Disclaimer of warranties
 
 THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM SECURITY DEFECTS.
 
@@ -108,23 +126,46 @@ Some jurisdictions do not allow the exclusion of certain warranties, so some of 
 
 ---
 
-## 9. Limitation of liability
+## 10. Limitation of liability
+
+### 10.1 Excluded damages
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE DEVELOPER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE APP.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE DEVELOPER'S TOTAL AGGREGATE LIABILITY ARISING OUT OF THESE TERMS OR YOUR USE OF THE APP WILL NOT EXCEED THE GREATER OF (a) THE AMOUNT YOU PAID FOR THE APP IN THE TWELVE MONTHS BEFORE THE CLAIM, OR (b) FIVE (5) US DOLLARS.
+### 10.2 Aggregate cap
 
-Nothing in these Terms excludes or limits liability that cannot lawfully be excluded or limited, such as liability for fraud or for personal injury caused by our negligence.
+To the fullest extent permitted by applicable law, **and only for claims arising from ordinary negligence**, the Developer's aggregate liability arising out of these Terms or your use of the App will not exceed the **greater of**:
+
+(a) the amount you paid for the App during the **twelve (12) months** before the event giving rise to the claim; or
+
+(b) **fifty (50) US Dollars** or the equivalent amount in local currency.
+
+### 10.3 Carve-outs (this cap does NOT apply)
+
+The cap in §10.2 does **not** apply to, and nothing in these Terms excludes or limits, liability for:
+
+- Intentional misconduct (willful misconduct);
+- Gross negligence;
+- Fraud or fraudulent misrepresentation;
+- Death or personal injury caused by our negligence;
+- Statutory product liability;
+- Mandatory consumer-protection rights under applicable law;
+- Violations of privacy or data-protection obligations under applicable law; or
+- Any other liability that cannot lawfully be excluded or limited.
+
+For users in jurisdictions where the limitation in §10.2 is unenforceable, our liability will be limited to the lowest amount permitted by applicable law.
 
 ---
 
-## 10. Indemnity
+## 11. Indemnity
 
-To the maximum extent permitted by law, you agree to indemnify and hold harmless the Developer from any claim, liability, damage, or expense (including reasonable legal fees) arising from your use of the App in violation of these Terms, applicable law, or the rights of a third party, including claims related to unlawful or non-consensual recording.
+To the maximum extent permitted by law, you agree to indemnify and hold harmless the Developer from any third-party claim, liability, damage, or expense (including reasonable legal fees) arising from your use of the App in violation of these Terms, applicable law, or the rights of a third party — including claims related to unlawful or non-consensual recording.
+
+This indemnity does not apply where the claim arises from CONEX's intentional misconduct, gross negligence, or where the laws of your country of residence do not permit such an indemnity from a consumer.
 
 ---
 
-## 11. Termination
+## 12. Termination
 
 These Terms remain in effect until terminated. You may terminate by uninstalling the App. We may terminate or suspend your right to use the App if you materially breach these Terms, with such termination effective immediately.
 
@@ -132,21 +173,23 @@ Provisions that by their nature should survive termination (intellectual propert
 
 ---
 
-## 12. Changes to these Terms
+## 13. Changes to these Terms
 
-We may update these Terms from time to time. The effective date at the top of this page will reflect the latest revision. Continued use of the App after changes take effect constitutes acceptance. If changes materially reduce your rights, we will make reasonable efforts to notify you through the App.
+We may update these Terms from time to time. The effective date at the top of this page will reflect the latest revision.
+
+**Material changes that reduce your rights or increase your obligations will apply prospectively only.** Where required by applicable law, we will obtain your consent or provide you with a reasonable opportunity to stop using the App before the change becomes effective. We will make reasonable efforts to notify you through the App or the website of material changes.
 
 ---
 
-## 13. Governing law and dispute resolution
+## 14. Governing law and dispute resolution
 
 Except where mandatory consumer-protection law in your country of residence provides otherwise, these Terms are governed by the laws of **Japan**, without regard to its conflict-of-law principles. Any dispute arising out of or relating to these Terms or your use of the App will be subject to the exclusive jurisdiction of the Tokyo District Court, Japan, as the court of first instance, unless applicable consumer law entitles you to a different venue.
 
-If you are a consumer in the European Economic Area, the United Kingdom, or another jurisdiction with mandatory consumer protection laws, nothing in this section deprives you of rights that cannot be contractually waived.
+**Nothing in this section limits any mandatory rights you may have under the consumer-protection, privacy, data-protection, or civil-procedure laws of your country or region of residence.** If you are a consumer, you may also be entitled to bring claims in the courts or before regulators of your place of residence where mandatory law so provides — including, where applicable, EU Rome I Regulation Article 6, Brazilian Consumer Defense Code, Taiwan's consumer-protection regime, U.S. state consumer-protection laws, Japan's Consumer Contract Act, and Hong Kong's consumer-protection statutes.
 
 ---
 
-## 14. Apple devices and the Standard EULA
+## 15. Apple devices and the Standard EULA
 
 You acknowledge that:
 
@@ -157,7 +200,7 @@ You acknowledge that:
 
 ---
 
-## 15. Contact
+## 16. Contact
 
 - Support: **hearrelay-support@conex-cp.com**
 - Privacy: **hearrelay-privacy@conex-cp.com**
@@ -166,4 +209,6 @@ You acknowledge that:
 
 ---
 
-**日本語版:** [利用規約](/ja/terms/)
+**Translations are available in:** [日本語](/ja/terms/) · [Français](/fr/terms/) · [Español](/es/terms/) · [Português (Brasil)](/pt-BR/terms/) · [简体中文](/zh-Hans/terms/)
+
+Where these Terms are provided in any language other than English, the **English version controls** to the extent permitted by applicable law. This precedence rule does not limit any rights granted to you by mandatory consumer-protection, privacy, or data-protection laws of your country or region.
