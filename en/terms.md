@@ -6,7 +6,8 @@ lang: en
 # Terms of Use
 
 **Effective date: 2026-04-25**
-**Last updated: 2026-04-25**
+**Last updated: 2026-04-26**
+**Document version: v3.2026-04-26**
 
 These Terms of Use ("Terms") govern your use of the HearRelay application ("the App") provided by **CONEX Corporation** (株式会社CONEX), a company incorporated in Japan ("the Developer", "we", "us", "CONEX"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not install or use the App.
 

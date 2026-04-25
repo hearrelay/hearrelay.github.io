@@ -7,6 +7,8 @@ lang: fr
 
 # Sécurité
 
+**Version du document : v3.2026-04-26**
+
 Merci de nous aider à garantir la sécurité des utilisateurs de HearRelay. Cette page explique comment signaler des vulnérabilités et résume la posture de sécurité de HearRelay.
 
 ---

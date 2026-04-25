@@ -6,7 +6,14 @@ lang: en
 # Privacy Policy
 
 **Effective date: 2026-04-25**
-**Last updated: 2026-04-25**
+**Last updated: 2026-04-26**
+**Document version: v3.2026-04-26**
+
+## Summary
+
+HearRelay is designed to work without a CONEX backend server. Audio and recordings stay on your devices. Device-discovery metadata is stored only in Apple iCloud within your Apple ID scope. Payments are processed by Apple. CONEX receives personal information only if you choose to contact us by email — see §4 for details.
+
+---
 
 HearRelay ("the App") is designed to be private by default. This policy explains what data is, and is not, processed when you use HearRelay.
 
@@ -73,7 +80,14 @@ However, if you choose to contact CONEX by email for support, privacy requests, 
 
 **Service providers.** These communications may be processed by our email, hosting, or security-reporting service providers. Depending on the provider, the information may be stored or processed in Japan or other countries.
 
-**Retention.** We retain support, privacy, and security correspondence only for as long as reasonably necessary for the purpose for which it was provided, unless a longer retention period is required or permitted for legal, security, dispute-resolution, or compliance purposes.
+**Retention.** We retain correspondence only for as long as reasonably necessary for the purpose for which it was provided. In general:
+
+- **support inquiries**: up to **30 days** after the issue is closed;
+- **privacy-rights requests**: up to **3 years** after the request is completed, to maintain compliance records;
+- **security vulnerability reports**: up to **2 years** after the relevant fix or release is completed;
+- **legal claims, fraud, extortion, abuse, or law-enforcement matters**: for the period reasonably necessary to protect legal rights, comply with legal obligations, resolve disputes, or cooperate with lawful requests.
+
+We may delete information earlier when it is no longer necessary, and we may retain limited records longer where required or permitted by applicable law.
 
 ---
 
@@ -164,7 +178,19 @@ For **voluntary email correspondence** (§4), the legal bases are performance of
 
 ### 10.2 Users in Brazil
 
-The App's processing posture under LGPD mirrors §10.1. CONEX is not aware of any personal data processed on its own servers other than voluntary email correspondence (§4). CONEX has not appointed a local Encarregado (DPO) on the basis that no large-scale or high-risk personal-data processing occurs through CONEX. The contact above serves as the point of contact for LGPD requests.
+The App's processing posture under LGPD mirrors §10.1. CONEX is not aware of any personal data processed on its own servers other than voluntary email correspondence (§4).
+
+**Encarregado / DPO.** CONEX has not appointed a local Encarregado (DPO) on the basis of its current assessment that:
+
+- the App is designed so that audio, recordings, payment information, analytics, advertising identifiers, and tracking data are not transmitted to CONEX servers;
+- the only personal data CONEX itself receives is voluntary email correspondence (§4), processed in limited volumes for inquiry handling, security, and compliance;
+- no large-scale, high-risk, or special-category personal-data processing occurs through CONEX.
+
+This determination is documented internally and is reviewed when our processing volume, distribution regions, applicable guidance, or regulatory expectations materially change. The contact below serves as the point of contact for LGPD requests, including data-subject rights and ANPD inquiries:
+
+- **Email (Portuguese inquiries are accepted, with response in Portuguese or English depending on availability)**: hearrelay-privacy@conex-cp.com
+
+If your inquiry concerns LGPD rights specifically, please mark the subject line "LGPD" so we can prioritise the response.
 
 ### 10.3 Users in Japan
 

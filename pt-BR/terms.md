@@ -7,8 +7,9 @@ lang: pt-BR
 
 # Termos de Uso
 
-**Data de vigência: 2026-04-25**
-**Última atualização: 2026-04-25**
+**Data de vigência: 25 de abril de 2026**
+**Última atualização: 26 de abril de 2026**
+**Versão do documento: v3.2026-04-26**
 
 Estes Termos de Uso (os "Termos") regem o uso que você faz do aplicativo HearRelay (o "Aplicativo"), fornecido pela **CONEX Corporation** (株式会社CONEX), uma empresa constituída no Japão (o "Desenvolvedor", "nós", "nossa", "CONEX"). Ao baixar, instalar ou usar o Aplicativo, você concorda em se obrigar por estes Termos. Se não concordar, não instale nem use o Aplicativo.
 

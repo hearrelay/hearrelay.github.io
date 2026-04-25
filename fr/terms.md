@@ -7,8 +7,9 @@ lang: fr
 
 # Conditions d'utilisation
 
-**Date d'entrée en vigueur : 2026-04-25**
-**Dernière mise à jour : 2026-04-25**
+**Date d'entrée en vigueur : 25 avril 2026**
+**Dernière mise à jour : 26 avril 2026**
+**Version du document : v3.2026-04-26**
 
 Les présentes Conditions d'utilisation (« Conditions ») régissent votre utilisation de l'application HearRelay (« l'Application ») fournie par **CONEX Corporation** (株式会社CONEX), société constituée au Japon (« l'Éditeur », « nous », « CONEX »). En téléchargeant, en installant ou en utilisant l'Application, vous acceptez d'être lié par les présentes Conditions. Si vous n'acceptez pas, n'installez ni n'utilisez l'Application.
 

@@ -5,6 +5,8 @@ lang: en
 
 # Support
 
+**Document version: v3.2026-04-26**
+
 Thanks for using **HearRelay**. This page gathers troubleshooting tips, important notices about lawful use, and how to get in touch.
 
 ---
@@ -20,6 +22,16 @@ You are responsible for confirming that any recording or live-monitoring you per
 ### HearRelay is not a safety, medical, or emergency device
 
 HearRelay is a consumer utility for convenience monitoring. It is **not** a medical device, an emergency device, a security alarm, a childcare safety device, an eldercare safety device, a life-support device, or any equipment certified for safety-critical use. **Never use HearRelay as the sole means of supervision or emergency detection.** Always combine it with responsible direct supervision and any safety equipment certified for the purpose.
+
+### Why HearRelay does not work over the internet
+
+HearRelay deliberately requires both devices to be **signed in to the same Apple ID** *and* **connected to the same Wi-Fi / local network**. There is no internet-relay option, no remote-monitoring mode, and no "cloud" path. This is a security and privacy choice, not a missing feature:
+
+- It prevents covert remote surveillance — a stolen or borrowed iPhone cannot stream audio out of someone's home.
+- It keeps audio off CONEX servers (we operate none) and off the public internet.
+- It limits the impact of an Apple ID compromise to devices already paired to that Apple ID.
+
+If you need monitoring across networks, HearRelay is not the right tool — use a product certified for that purpose, with the appropriate parental, employment, or other legal notice.
 
 ---
 

@@ -7,8 +7,15 @@ lang: fr
 
 # Politique de confidentialité
 
-**Date d'entrée en vigueur : 2026-04-25**
-**Dernière mise à jour : 2026-04-25**
+**Date d'entrée en vigueur : 25 avril 2026**
+**Dernière mise à jour : 26 avril 2026**
+**Version du document : v3.2026-04-26**
+
+## Résumé
+
+HearRelay est conçu pour fonctionner sans serveur backend CONEX. L'audio et les enregistrements restent sur vos appareils. Les métadonnées de découverte d'appareils sont stockées uniquement dans Apple iCloud, dans le périmètre de votre identifiant Apple. Les paiements sont traités par Apple. CONEX ne reçoit des informations personnelles que si vous choisissez de nous contacter par e-mail — voir §4 pour les détails.
+
+---
 
 HearRelay (« l'Application ») est conçue pour respecter la vie privée par défaut. La présente politique explique quelles données sont, et ne sont pas, traitées lorsque vous utilisez HearRelay.
 
@@ -75,7 +82,14 @@ Toutefois, si vous choisissez de contacter CONEX par e-mail pour de l'assistance
 
 **Prestataires de services.** Ces communications peuvent être traitées par nos prestataires de messagerie, d'hébergement ou de signalement de sécurité. Selon le prestataire, les informations peuvent être stockées ou traitées au Japon ou dans d'autres pays.
 
-**Conservation.** Nous ne conservons la correspondance d'assistance, de confidentialité et de sécurité que le temps raisonnablement nécessaire à la finalité pour laquelle elle a été fournie, sauf si une période de conservation plus longue est requise ou autorisée à des fins légales, de sécurité, de règlement des litiges ou de conformité.
+**Conservation.** Nous conservons la correspondance uniquement pendant la durée raisonnablement nécessaire à la finalité pour laquelle elle a été fournie. En général :
+
+- **demandes de support** : jusqu'à **30 jours** après la clôture de la demande ;
+- **demandes liées aux droits relatifs à la vie privée** : jusqu'à **3 ans** après le traitement de la demande, à des fins de tenue de registres de conformité ;
+- **rapports de vulnérabilité de sécurité** : jusqu'à **2 ans** après la mise en œuvre du correctif ou de la version concernée ;
+- **réclamations juridiques, fraude, extorsion, abus ou questions relatives aux autorités** : pendant la période raisonnablement nécessaire pour protéger les droits légaux, respecter les obligations légales, résoudre les litiges ou coopérer avec les demandes légitimes.
+
+Nous pouvons supprimer les informations plus tôt lorsqu'elles ne sont plus nécessaires, et nous pouvons conserver des registres limités plus longtemps lorsque la loi applicable l'exige ou le permet.
 
 ---
 
@@ -166,7 +180,19 @@ Pour la **correspondance par e-mail volontaire** (§4), les bases légales sont 
 
 ### 10.2 Utilisateurs au Brésil
 
-La posture de traitement de l'Application au regard de la LGPD reflète celle décrite au §10.1. CONEX n'a pas connaissance de données personnelles traitées sur ses propres serveurs autres que les correspondances par e-mail volontaires (§4). CONEX n'a pas désigné d'Encarregado local (DPO) au motif qu'aucun traitement de données personnelles à grande échelle ou à haut risque n'est effectué par CONEX. Le contact ci-dessus sert de point de contact pour les demandes au titre de la LGPD.
+La position de traitement de l'application au regard de la LGPD reflète celle du §10.1. CONEX n'a connaissance d'aucune donnée personnelle traitée sur ses propres serveurs autre que la correspondance par e-mail volontaire (§4).
+
+**Encarregado / DPO.** CONEX n'a pas désigné d'Encarregado (DPO) local sur la base de son évaluation actuelle selon laquelle :
+
+- l'application est conçue de sorte que l'audio, les enregistrements, les informations de paiement, les analyses, les identifiants publicitaires et les données de suivi ne sont pas transmis aux serveurs CONEX ;
+- les seules données personnelles que CONEX reçoit elle-même sont la correspondance par e-mail volontaire (§4), traitées en volumes limités à des fins de traitement des demandes, de sécurité et de conformité ;
+- aucun traitement de données personnelles à grande échelle, à haut risque ou de catégorie spéciale n'a lieu via CONEX.
+
+Cette détermination est documentée en interne et est réexaminée lorsque notre volume de traitement, les régions de distribution, les orientations applicables ou les attentes réglementaires changent de manière significative. Le contact ci-dessous sert de point de contact pour les demandes LGPD, y compris les droits des personnes concernées et les demandes de l'ANPD :
+
+- **E-mail (les demandes en portugais sont acceptées, avec une réponse en portugais ou en anglais selon la disponibilité)** : hearrelay-privacy@conex-cp.com
+
+Si votre demande concerne spécifiquement les droits LGPD, veuillez indiquer "LGPD" dans l'objet pour que nous puissions traiter votre réponse en priorité.
 
 ### 10.3 Utilisateurs au Japon
 
