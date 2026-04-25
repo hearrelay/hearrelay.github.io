@@ -36,7 +36,11 @@ When testing or reporting vulnerabilities, please:
 - **Do not** test against Apple services, third-party hardware, or any system you do not own.
 - Limit testing to your own devices and your own Apple ID.
 
-If you make a good-faith report within the scope of this policy and comply with these rules, **CONEX will not intentionally pursue legal action against you based solely on that report**, subject to applicable law. This safe-harbor commitment does not waive any rights you have under applicable law and does not bind any third party (including Apple).
+If you make a good-faith report within the scope of this policy and comply with these rules, **CONEX will not intentionally pursue legal action against you based solely on that report**, subject to applicable law.
+
+**Important limitations.** This policy does **not** authorize access to any system, service, account, device, or data without permission. It does **not** waive or limit any criminal law, regulatory authority, or third-party rights. It does **not** bind Apple, GitHub, email providers, cloud providers, law enforcement, prosecutors, regulators, or any other third party.
+
+We may take appropriate action — including notifying affected parties or authorities — in cases involving extortion, threats, active exploitation, harm to users, unauthorized access to third-party systems, or failure to follow this policy.
 
 ---
 

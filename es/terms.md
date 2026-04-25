@@ -102,7 +102,7 @@ La Aplicación se distribuye a través de la App Store. **HearRelay Full Access 
 
 Puede restaurar una compra anterior utilizando la opción **Restore Purchases** dentro de la Aplicación. La función Family Sharing está habilitada para el desbloqueo; el uso compartido se rige por los términos de Family Sharing de Apple.
 
-Apple es la única responsable de las solicitudes de reembolso; usted puede presentar solicitudes de reembolso a través de los canales estándar de Apple (por ejemplo, <https://reportaproblem.apple.com>).
+Las solicitudes de reembolso de compras realizadas en la App Store deben presentarse a través del proceso estándar de reembolsos de Apple (por ejemplo, <https://reportaproblem.apple.com>), y Apple procesa los reembolsos conforme a los términos de la App Store y de Apple Media Services. **Nada en esta sección limita los derechos imperativos de protección al consumidor que pueda tener frente a CONEX en virtud de la ley aplicable.**
 
 ---
 
@@ -120,7 +120,7 @@ El nombre «HearRelay» es una marca comercial reclamada por el Desarrollador.
 
 ---
 
-## 9. Exclusión de garantías
+## 9. Descargo de responsabilidad
 
 LA APLICACIÓN SE PROPORCIONA «TAL CUAL» Y «SEGÚN DISPONIBILIDAD», SIN GARANTÍAS DE NINGÚN TIPO, NI EXPLÍCITAS NI IMPLÍCITAS, INCLUYENDO, SIN LIMITACIÓN, GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, NO INFRACCIÓN, O DE QUE LA APLICACIÓN FUNCIONARÁ ININTERRUMPIDAMENTE, SIN ERRORES O LIBRE DE DEFECTOS DE SEGURIDAD.
 
@@ -161,9 +161,9 @@ Para los usuarios en jurisdicciones donde la limitación de la §10.2 no sea exi
 
 ## 11. Indemnización
 
-En la medida máxima permitida por la ley, usted se compromete a indemnizar y mantener indemne al Desarrollador frente a cualquier reclamación, responsabilidad, daño o gasto de un tercero (incluyendo honorarios legales razonables) derivado de su uso de la Aplicación en violación de estas Condiciones, de la ley aplicable, o de los derechos de un tercero — incluyendo reclamaciones relacionadas con grabaciones ilegales o sin consentimiento.
+En la medida permitida por la ley aplicable, **y únicamente en la medida en que una reclamación de un tercero sea causada por su uso ilícito de la Aplicación, por una grabación o monitoreo sin consentimiento, o por un incumplimiento sustancial de estas Condiciones**, usted se compromete a indemnizar y mantener indemne al Desarrollador frente a esa reclamación, responsabilidad, daño o gasto de un tercero (incluyendo honorarios legales razonables).
 
-Esta indemnización no se aplica cuando la reclamación derive de conducta intencional o negligencia grave de CONEX, o cuando las leyes de su país de residencia no permitan tal indemnización por parte de un consumidor.
+Esta obligación **no** se aplica en la medida en que la reclamación derive del propio incumplimiento, negligencia, declaración engañosa o violación de la ley aplicable por parte de CONEX, y **no limita los derechos imperativos de protección al consumidor** que pueda tener bajo la ley aplicable. Tampoco se aplica cuando las leyes de su país de residencia no permitan tal indemnización por parte de un consumidor.
 
 ---
 
@@ -171,7 +171,7 @@ Esta indemnización no se aplica cuando la reclamación derive de conducta inten
 
 Estas Condiciones permanecen vigentes hasta su terminación. Usted puede terminarlas desinstalando la Aplicación. Nosotros podemos terminar o suspender su derecho a usar la Aplicación si incumple de manera sustancial estas Condiciones, surtiendo efecto dicha terminación de inmediato.
 
-Las disposiciones que por su naturaleza deban sobrevivir a la terminación (propiedad intelectual, exclusiones de garantía, limitaciones de responsabilidad, indemnización, ley aplicable) sobrevivirán.
+Las disposiciones que por su naturaleza deban sobrevivir a la terminación (propiedad intelectual, descargos de responsabilidad, limitaciones de responsabilidad, indemnización, ley aplicable) sobrevivirán.
 
 ---
 
@@ -180,6 +180,8 @@ Las disposiciones que por su naturaleza deban sobrevivir a la terminación (prop
 Podemos actualizar estas Condiciones de tiempo en tiempo. La fecha de entrada en vigor en la parte superior de esta página reflejará la revisión más reciente.
 
 **Los cambios materiales que reduzcan sus derechos o aumenten sus obligaciones se aplicarán únicamente con efecto prospectivo.** Cuando la ley aplicable lo requiera, obtendremos su consentimiento o le brindaremos una oportunidad razonable de dejar de utilizar la Aplicación antes de que el cambio entre en vigor. Haremos esfuerzos razonables para notificarle los cambios materiales a través de la Aplicación o del sitio web.
+
+**Si un cambio material reduce sustancialmente la funcionalidad de pago que usted adquirió o afecta materialmente sus derechos imperativos de protección al consumidor, le proporcionaremos cualquier aviso, mecanismo de consentimiento, opción de reembolso, opción de uso continuado u otro remedio que exija la ley aplicable.**
 
 ---
 

@@ -38,7 +38,11 @@ Lors de tests ou de signalements de vulnérabilités, veuillez :
 - **Ne pas** tester sur les services Apple, sur du matériel tiers ou sur tout système qui ne vous appartient pas.
 - Limiter les tests à vos propres appareils et à votre propre Apple ID.
 
-Si vous effectuez un signalement de bonne foi dans le cadre de la présente politique et en respectez les règles, **CONEX n'engagera pas intentionnellement de poursuites judiciaires à votre encontre sur la seule base de ce signalement**, sous réserve du droit applicable. Cet engagement de safe harbor ne renonce à aucun droit dont vous disposez au titre du droit applicable et ne lie aucun tiers (y compris Apple).
+Si vous effectuez un signalement de bonne foi dans le cadre de la présente politique et en respectez les règles, **CONEX n'engagera pas intentionnellement de poursuites judiciaires à votre encontre sur la seule base de ce signalement**, sous réserve du droit applicable.
+
+**Limites importantes.** La présente politique **n'autorise pas** l'accès à un quelconque système, service, compte, appareil ou aux données sans permission. Elle **ne renonce à** ni ne limite aucune loi pénale, autorité réglementaire ou droit d'un tiers. Elle **ne lie pas** Apple, GitHub, les fournisseurs de messagerie, les fournisseurs cloud, les services répressifs, les procureurs, les régulateurs ou tout autre tiers.
+
+Nous pouvons prendre les mesures appropriées — y compris notifier les parties concernées ou les autorités — dans les cas impliquant extorsion, menaces, exploitation active, préjudice causé aux utilisateurs, accès non autorisé à des systèmes tiers, ou non-respect de la présente politique.
 
 ---
 

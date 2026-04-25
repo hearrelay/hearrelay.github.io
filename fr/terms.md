@@ -102,7 +102,7 @@ L'Application est distribuée via l'App Store. **HearRelay Full Access est un ac
 
 Vous pouvez restaurer un achat antérieur via l'option **Restore Purchases** dans l'Application. Family Sharing est activé pour le déverrouillage ; le partage est régi par les conditions de Family Sharing d'Apple.
 
-Apple est seul responsable des demandes de remboursement ; vous pouvez soumettre vos demandes via les canaux standards d'Apple (par ex. <https://reportaproblem.apple.com>).
+Les demandes de remboursement pour les achats effectués sur l'App Store doivent être soumises via le processus de remboursement standard d'Apple (par ex. <https://reportaproblem.apple.com>), et Apple traite les remboursements selon les conditions de l'App Store et des Apple Media Services. **Rien dans la présente section ne limite les droits impératifs de consommateur dont vous pourriez disposer à l'encontre de CONEX au titre du droit applicable.**
 
 ---
 
@@ -161,9 +161,9 @@ Pour les utilisateurs résidant dans des juridictions où la limitation prévue 
 
 ## 11. Indemnisation
 
-Dans la mesure maximale autorisée par la loi, vous vous engagez à indemniser et à tenir indemne l'Éditeur de toute réclamation, responsabilité, dommage ou frais émanant d'un tiers (y compris les honoraires d'avocat raisonnables) découlant de votre utilisation de l'Application en violation des présentes Conditions, du droit applicable ou des droits d'un tiers — y compris les réclamations liées à un enregistrement illégal ou non consenti.
+Dans la mesure permise par le droit applicable, **et uniquement dans la mesure où une réclamation d'un tiers est causée par votre utilisation illicite de l'Application, par un enregistrement ou une surveillance non consentis, ou par une violation substantielle des présentes Conditions**, vous vous engagez à indemniser et à tenir indemne l'Éditeur de cette réclamation, responsabilité, dommage ou frais émanant d'un tiers (y compris les honoraires d'avocat raisonnables).
 
-Cette indemnisation ne s'applique pas lorsque la réclamation découle d'une faute intentionnelle ou d'une négligence grave de CONEX, ou lorsque le droit de votre pays de résidence n'autorise pas une telle indemnisation de la part d'un consommateur.
+Cette obligation ne s'applique **pas** dans la mesure où la réclamation est causée par une violation, une négligence, une déclaration trompeuse de CONEX ou une violation par CONEX du droit applicable, et **ne limite pas les droits impératifs de consommateur** dont vous pouvez disposer au titre du droit applicable. Elle ne s'applique pas non plus lorsque le droit de votre pays de résidence n'autorise pas une telle indemnisation de la part d'un consommateur.
 
 ---
 
@@ -180,6 +180,8 @@ Les dispositions qui, par leur nature, doivent survivre à la résiliation (prop
 Nous pouvons mettre à jour les présentes Conditions périodiquement. La date d'entrée en vigueur figurant en haut de cette page reflétera la dernière révision.
 
 **Les modifications substantielles qui réduisent vos droits ou augmentent vos obligations s'appliqueront uniquement pour l'avenir.** Lorsque le droit applicable l'exige, nous obtiendrons votre consentement ou vous offrirons une possibilité raisonnable de cesser d'utiliser l'Application avant l'entrée en vigueur de la modification. Nous ferons des efforts raisonnables pour vous informer des modifications substantielles via l'Application ou le site Web.
+
+**Si une modification substantielle réduit considérablement les fonctionnalités payantes que vous avez achetées ou affecte de manière substantielle vos droits impératifs de consommateur, nous fournirons toute notification, tout mécanisme de consentement, toute option de remboursement, toute option de poursuite d'utilisation ou toute autre voie de recours requise par le droit applicable.**
 
 ---
 

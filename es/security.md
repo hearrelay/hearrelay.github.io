@@ -38,7 +38,11 @@ Al probar o reportar vulnerabilidades, le pedimos que:
 - **No** pruebe contra los servicios de Apple, hardware de terceros ni ningún sistema que no sea de su propiedad.
 - Limite las pruebas a sus propios dispositivos y a su propia Apple ID.
 
-Si presenta un reporte de buena fe dentro del alcance de esta política y cumple con estas reglas, **CONEX no emprenderá intencionalmente acciones legales en su contra basadas únicamente en dicho reporte**, sujeto a la ley aplicable. Este compromiso de refugio seguro no renuncia a ningún derecho que usted tenga bajo la ley aplicable y no obliga a ningún tercero (incluido Apple).
+Si presenta un reporte de buena fe dentro del alcance de esta política y cumple con estas reglas, **CONEX no emprenderá intencionalmente acciones legales en su contra basadas únicamente en dicho reporte**, sujeto a la ley aplicable.
+
+**Limitaciones importantes.** Esta política **no** autoriza el acceso a ningún sistema, servicio, cuenta, dispositivo o dato sin permiso. **No** renuncia ni limita ninguna ley penal, autoridad regulatoria ni derechos de terceros. **No** vincula a Apple, GitHub, proveedores de correo, proveedores en la nube, fuerzas del orden, fiscales, reguladores ni a ningún otro tercero.
+
+Podremos adoptar las acciones que correspondan — incluyendo notificar a las partes afectadas o a las autoridades — en casos que involucren extorsión, amenazas, explotación activa, daño a usuarios, acceso no autorizado a sistemas de terceros o incumplimiento de esta política.
 
 ---
 

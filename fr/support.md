@@ -82,7 +82,7 @@ Ouvrez l'Application → appuyez sur la bannière verrouillée → **Restore Pur
 
 ### Comment obtenir un remboursement ?
 
-Apple traite tous les paiements de l'App Store et est seul responsable des remboursements. Utilisez le canal standard d'Apple : <https://reportaproblem.apple.com>.
+Les demandes de remboursement pour les achats effectués sur l'App Store doivent être soumises via le processus de remboursement standard d'Apple à l'adresse <https://reportaproblem.apple.com>. Apple traite les remboursements selon les conditions de l'App Store et des Apple Media Services. CONEX ne reçoit ni numéros de carte de paiement ni informations de facturation. Rien dans le présent paragraphe ne limite les droits impératifs de consommateur dont vous pourriez disposer à l'encontre de CONEX au titre du droit applicable.
 
 ---
 

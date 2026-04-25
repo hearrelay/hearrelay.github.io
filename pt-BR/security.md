@@ -38,7 +38,11 @@ Ao testar ou reportar vulnerabilidades, por favor:
 - **Não** teste contra serviços da Apple, hardware de terceiros ou qualquer sistema que não seja seu.
 - Limite os testes aos seus próprios dispositivos e à sua própria Apple ID.
 
-Se você fizer um relato de boa-fé dentro do escopo desta política e cumprir estas regras, **a CONEX não buscará intencionalmente medidas legais contra você baseadas exclusivamente nesse relato**, observada a lei aplicável. Este compromisso de porto seguro não renuncia a quaisquer direitos que você tenha sob a lei aplicável e não vincula qualquer terceiro (incluindo a Apple).
+Se você fizer um relato de boa-fé dentro do escopo desta política e cumprir estas regras, **a CONEX não buscará intencionalmente medidas legais contra você baseadas exclusivamente nesse relato**, observada a lei aplicável.
+
+**Limitações importantes.** Esta política **não** autoriza acesso a qualquer sistema, serviço, conta, dispositivo ou dado sem permissão. Ela **não** renuncia nem limita qualquer lei criminal, autoridade regulatória ou direitos de terceiros. Ela **não** vincula a Apple, o GitHub, provedores de e-mail, provedores de nuvem, autoridades policiais, promotores, reguladores ou qualquer outro terceiro.
+
+Poderemos tomar as medidas apropriadas — incluindo notificar partes afetadas ou autoridades — em casos envolvendo extorsão, ameaças, exploração ativa, dano a usuários, acesso não autorizado a sistemas de terceiros ou descumprimento desta política.
 
 ---
 

@@ -82,7 +82,7 @@ Abra o Aplicativo → toque no banner bloqueado → **Restore Purchases**. A App
 
 ### Como obtenho um reembolso?
 
-A Apple processa todos os pagamentos da App Store e é a única responsável pelos reembolsos. Use o canal padrão da Apple: <https://reportaproblem.apple.com>.
+As solicitações de reembolso de compras na App Store devem ser enviadas pelo processo padrão de reembolso da Apple em <https://reportaproblem.apple.com>. A Apple processa os reembolsos sob os Termos da App Store e dos Apple Media Services. A CONEX não recebe números de cartão de pagamento nem detalhes de cobrança. Nada neste parágrafo limita quaisquer direitos imperativos do consumidor que você possa ter perante a CONEX nos termos da lei aplicável.
 
 ---
 

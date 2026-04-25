@@ -84,7 +84,7 @@ Live Activities 受系统强制限制的最大持续时间(约 8 小时)。一�
 
 ### 如何申请退款?
 
-App Store 的所有付款均由 Apple 处理,且退款由 Apple 独自负责。请使用 Apple 的标准渠道:<https://reportaproblem.apple.com>。
+App Store 购买的退款请求须通过 Apple 的标准退款流程提交,网址 <https://reportaproblem.apple.com>。Apple 依 App Store 与 Apple Media Services 条款处理退款。CONEX 不会收到付款卡号或账单详情。本段中的任何规定均不限制您依适用法律对 CONEX 可能享有的任何强制性消费者权利。
 
 ---
 

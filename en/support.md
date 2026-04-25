@@ -80,7 +80,7 @@ Open the App → tap the locked banner → **Restore Purchases**. Apple will che
 
 ### How do I get a refund?
 
-Apple processes all App Store payments and is solely responsible for refunds. Use Apple's standard channel: <https://reportaproblem.apple.com>.
+Refund requests for App Store purchases must be submitted through Apple's standard refund process at <https://reportaproblem.apple.com>. Apple processes refunds under the App Store and Apple Media Services Terms. CONEX does not receive payment card numbers or billing details. Nothing in this paragraph limits any mandatory consumer rights you may have against CONEX under applicable law.
 
 ---
 

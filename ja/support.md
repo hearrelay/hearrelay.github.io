@@ -82,7 +82,7 @@ Live Activities は OS の制約で最大表示時間(約 8 時間)がありま�
 
 ### 返金は?
 
-App Store の決済はすべて Apple が処理し、返金も Apple のみが対応します。Apple の標準窓口をご利用ください: <https://reportaproblem.apple.com>。
+App Store での購入に関する返金申請は、Apple の標準的な返金手続(<https://reportaproblem.apple.com>)を通じて行う必要があります。返金処理は App Store 及び Apple Media Services Terms に従って Apple が行います。当社は、クレジットカード番号その他の請求先情報を受領しません。本記載は、適用法に基づきお客様が当社に対して有する強行的な消費者保護上の権利を制限するものではありません。
 
 ---
 

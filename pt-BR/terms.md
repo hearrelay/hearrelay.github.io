@@ -102,7 +102,7 @@ O Aplicativo é distribuído por meio da App Store. **O HearRelay Full Access é
 
 Você pode restaurar uma compra anterior usando a opção **Restore Purchases** dentro do Aplicativo. O Family Sharing está habilitado para o desbloqueio; o compartilhamento é regido pelos termos do Family Sharing da Apple.
 
-A Apple é a única responsável por solicitações de reembolso; você pode enviar pedidos de reembolso pelos canais padrão da Apple (por exemplo, <https://reportaproblem.apple.com>).
+As solicitações de reembolso de compras na App Store devem ser enviadas pelo processo padrão de reembolso da Apple (por exemplo, <https://reportaproblem.apple.com>), e a Apple processa os reembolsos sob os Termos da App Store e dos Apple Media Services. **Nada nesta seção limita quaisquer direitos imperativos do consumidor que você possa ter perante a CONEX nos termos da lei aplicável.**
 
 ---
 
@@ -161,9 +161,9 @@ Para usuários em jurisdições onde a limitação prevista no §10.2 seja inexe
 
 ## 11. Indenização
 
-Na máxima extensão permitida por lei, você concorda em indenizar e isentar o Desenvolvedor de qualquer reivindicação, responsabilidade, dano ou despesa de terceiros (incluindo honorários advocatícios razoáveis) decorrentes do seu uso do Aplicativo em violação destes Termos, da lei aplicável ou dos direitos de terceiros — incluindo reclamações relacionadas a gravação ilícita ou sem consentimento.
+Na medida permitida pela lei aplicável, **e somente na medida em que uma reclamação de terceiro seja causada pelo seu uso ilícito do Aplicativo, por gravação ou monitoramento sem consentimento, ou por descumprimento substancial destes Termos**, você concorda em indenizar e isentar o Desenvolvedor dessa reclamação, responsabilidade, dano ou despesa de terceiros (incluindo honorários advocatícios razoáveis).
 
-Esta indenização não se aplica quando a reivindicação decorrer de conduta dolosa intencional ou negligência grave da CONEX, ou quando as leis do seu país de residência não permitirem tal indenização por parte de um consumidor.
+Esta obrigação **não** se aplica na medida em que a reclamação seja causada por descumprimento, negligência, declaração enganosa ou violação da lei aplicável por parte da própria CONEX, e **não limita quaisquer direitos imperativos do consumidor** que você possa ter nos termos da lei aplicável. Também não se aplica quando as leis do seu país de residência não permitirem tal indenização por parte de um consumidor.
 
 ---
 
@@ -180,6 +180,8 @@ As disposições que, por sua natureza, devam sobreviver à rescisão (proprieda
 Podemos atualizar estes Termos de tempos em tempos. A data de vigência no topo desta página refletirá a revisão mais recente.
 
 **Alterações materiais que reduzam seus direitos ou aumentem suas obrigações aplicar-se-ão apenas prospectivamente.** Quando a lei aplicável exigir, obteremos seu consentimento ou ofereceremos a você uma oportunidade razoável de deixar de usar o Aplicativo antes que a alteração entre em vigor. Envidaremos esforços razoáveis para notificá-lo de alterações materiais por meio do Aplicativo ou do site.
+
+**Se uma alteração material reduzir substancialmente a funcionalidade paga que você adquiriu ou afetar materialmente seus direitos imperativos do consumidor, forneceremos qualquer aviso, mecanismo de consentimento, opção de reembolso, opção de uso continuado ou outro remédio exigido pela lei aplicável.**
 
 ---
 

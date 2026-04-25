@@ -100,7 +100,7 @@ The App is distributed through the App Store. **HearRelay Full Access is a Non-C
 
 You can restore a previous purchase using the **Restore Purchases** option in the App. Family Sharing is enabled for the unlock; sharing is governed by Apple's Family Sharing terms.
 
-Apple is solely responsible for refund requests; you can submit refund requests through Apple's standard channels (e.g. <https://reportaproblem.apple.com>).
+Refund requests for App Store purchases must be submitted through Apple's standard refund process (e.g. <https://reportaproblem.apple.com>), and Apple processes refunds under the App Store and Apple Media Services Terms. **Nothing in this section limits any mandatory consumer rights you may have against CONEX under applicable law.**
 
 ---
 
@@ -159,9 +159,9 @@ For users in jurisdictions where the limitation in §10.2 is unenforceable, our 
 
 ## 11. Indemnity
 
-To the maximum extent permitted by law, you agree to indemnify and hold harmless the Developer from any third-party claim, liability, damage, or expense (including reasonable legal fees) arising from your use of the App in violation of these Terms, applicable law, or the rights of a third party — including claims related to unlawful or non-consensual recording.
+To the extent permitted by applicable law, **and only to the extent a third-party claim is caused by your unlawful use of the App, non-consensual recording or monitoring, or material breach of these Terms**, you agree to indemnify and hold harmless the Developer from that third-party claim, liability, damage, or expense (including reasonable legal fees).
 
-This indemnity does not apply where the claim arises from CONEX's intentional misconduct, gross negligence, or where the laws of your country of residence do not permit such an indemnity from a consumer.
+This obligation does **not** apply to the extent the claim is caused by CONEX's own breach, negligence, misleading statement, or violation of applicable law, and **does not limit any mandatory consumer rights** you may have under applicable law. It also does not apply where the laws of your country of residence do not permit such an indemnity from a consumer.
 
 ---
 
@@ -178,6 +178,8 @@ Provisions that by their nature should survive termination (intellectual propert
 We may update these Terms from time to time. The effective date at the top of this page will reflect the latest revision.
 
 **Material changes that reduce your rights or increase your obligations will apply prospectively only.** Where required by applicable law, we will obtain your consent or provide you with a reasonable opportunity to stop using the App before the change becomes effective. We will make reasonable efforts to notify you through the App or the website of material changes.
+
+**If a material change substantially reduces the paid functionality you purchased or materially affects your mandatory consumer rights, we will provide any notice, consent mechanism, refund option, continued-use option, or other remedy required by applicable law.**
 
 ---
 

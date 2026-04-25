@@ -20,22 +20,24 @@ Pour toute question, veuillez nous contacter à l'adresse **hearrelay-privacy@co
 
 HearRelay est développée par **CONEX Corporation** (株式会社CONEX), une société constituée au Japon (« l'Éditeur », « nous », « CONEX »). L'Application est conçue de telle sorte que les sons, les enregistrements, les informations de paiement, les identifiants publicitaires, les données analytiques et les données de suivi ne soient pas transmis aux serveurs de CONEX. CONEX n'exploite aucun serveur dorsal pour l'Application.
 
-Dans la mesure où des informations limitées de découverte d'appareils sont traitées par Apple au sein de votre compte Apple ID (voir §4), CONEX n'a pas accès à ce traitement et ne l'opère pas. Lorsque le droit applicable considère néanmoins ces informations comme des « données personnelles », CONEX coopère de bonne foi avec les demandes d'informations conformément au §10.
+Dans la mesure où des informations limitées de découverte d'appareils sont traitées par Apple au sein de votre compte Apple ID (voir §5), CONEX n'a pas accès à ce traitement et ne l'opère pas. Lorsque le droit applicable considère néanmoins ces informations comme des « données personnelles », CONEX coopère de bonne foi avec les demandes d'informations conformément au §12.
+
+Si vous choisissez de nous contacter par e-mail — pour de l'assistance, des questions de confidentialité, de sécurité ou autres — CONEX recevra le contenu de ces e-mails (voir §4).
 
 Pour toute correspondance, veuillez utiliser les adresses e-mail figurant en bas de cette page.
 
 ---
 
-## 2. Données que nous ne collectons pas
+## 2. Données que nous ne collectons pas via l'Application
 
-CONEX **ne collecte ni ne reçoit** sur ses propres serveurs, ne stocke et ne partage aucune des données suivantes :
+À l'exception des informations que vous choisissez de nous envoyer directement (voir §4), CONEX **ne collecte ni ne reçoit** sur ses propres serveurs, ne stocke et ne partage aucune des données suivantes via l'Application :
 
 - Sons captés par le microphone de votre appareil
 - Enregistrements audio que vous créez avec l'Application
 - Coordonnées, localisation, photos, données caméra ou identifiants d'appareil
 - Identifiants publicitaires (IDFA, IDFV utilisés à des fins de suivi)
 - Données analytiques, télémétrie de plantage acheminée vers des services tiers ou profils comportementaux
-- Numéros de carte de paiement ou informations de facturation (Apple traite les achats — voir §7)
+- Numéros de carte de paiement ou informations de facturation (Apple traite les achats — voir §8)
 
 HearRelay ne contient aucun SDK tiers d'analytique, de publicité ou de suivi.
 
@@ -56,7 +58,28 @@ Lorsque vous désinstallez l'Application, toutes les données ci-dessus sont sup
 
 ---
 
-## 4. Informations limitées traitées par Apple iCloud (périmètre Apple ID)
+## 4. Communications que vous nous envoyez
+
+L'Application est conçue de telle sorte que CONEX ne collecte ni ne reçoit de données personnelles via l'Application sur ses propres serveurs.
+
+Toutefois, si vous choisissez de contacter CONEX par e-mail pour de l'assistance, des demandes en matière de confidentialité, des signalements de sécurité, des questions liées aux remboursements ou d'autres demandes, **nous recevrons les informations que vous choisissez de nous envoyer**. Cela peut inclure :
+
+- Votre adresse e-mail
+- Votre nom, s'il figure dans votre message
+- Le contenu de votre message
+- Le modèle d'appareil, la version d'iOS / iPadOS, la version de l'application
+- Captures d'écran, journaux, étapes de reproduction
+- Détails de vulnérabilité (dans les rapports de sécurité)
+
+**Finalité.** CONEX utilise ces informations uniquement pour répondre à votre demande, fournir de l'assistance, enquêter sur des problèmes de sécurité, se conformer à des obligations légales et protéger l'Application ainsi que nos utilisateurs. Nous **n'utilisons pas** la correspondance d'assistance, de confidentialité ou de sécurité à des fins de publicité, de suivi ou de profilage.
+
+**Prestataires de services.** Ces communications peuvent être traitées par nos prestataires de messagerie, d'hébergement ou de signalement de sécurité. Selon le prestataire, les informations peuvent être stockées ou traitées au Japon ou dans d'autres pays.
+
+**Conservation.** Nous ne conservons la correspondance d'assistance, de confidentialité et de sécurité que le temps raisonnablement nécessaire à la finalité pour laquelle elle a été fournie, sauf si une période de conservation plus longue est requise ou autorisée à des fins légales, de sécurité, de règlement des litiges ou de conformité.
+
+---
+
+## 5. Informations limitées traitées par Apple iCloud (périmètre Apple ID)
 
 Pour permettre à vos propres appareils Apple de se découvrir mutuellement sur le même Wi-Fi, l'Application fait en sorte que les informations limitées de découverte d'appareils suivantes soient stockées dans **Apple iCloud Key-Value Storage** au sein de votre compte Apple ID :
 
@@ -72,7 +95,7 @@ Ces informations sont stockées dans le périmètre de votre propre Apple ID, au
 
 ---
 
-## 5. Communications réseau
+## 6. Communications réseau
 
 HearRelay communique **uniquement** avec d'autres appareils Apple qui sont :
 
@@ -83,7 +106,7 @@ Les communications sont chiffrées au moyen du **HearRelay Secure Channel** (éc
 
 ---
 
-## 6. Enregistrements audio que vous créez
+## 7. Enregistrements audio que vous créez
 
 Si vous activez la fonction d'enregistrement :
 
@@ -97,11 +120,10 @@ Il vous appartient de vous assurer que tout enregistrement ou toute surveillance
 
 ---
 
-## 7. Tiers, paiements et App Store
+## 8. Tiers, paiements et App Store
 
-- CONEX ne **partage** aucune donnée avec un quelconque tiers.
+- CONEX ne **vend, ne loue ni ne partage** de données personnelles à des fins de publicité, d'analytique ou de suivi. Les services Apple et les communications volontaires que vous nous envoyez sont décrits dans la présente Politique (voir §4 et §5).
 - L'Application n'utilise **aucun** SDK publicitaire, analytique ou de profilage.
-- CONEX ne **vend** ni ne **loue** aucune donnée, quelle qu'elle soit.
 
 La distribution et les paiements sont gérés par Apple via l'App Store et l'Achat intégré (In-App Purchase). **HearRelay Full Access est un achat unique non consommable, et non un abonnement à renouvellement automatique.** Les prix, taxes, remboursements et facturation sont traités par Apple selon les conditions de l'App Store et des Apple Media Services. CONEX ne reçoit ni numéros de carte de paiement ni informations de facturation. Vous pouvez restaurer un achat antérieur via l'option **Restore Purchases** dans l'Application.
 
@@ -109,47 +131,64 @@ Lorsque Apple traite votre achat ou livre des mises à jour, la politique de con
 
 ---
 
-## 8. Notre site Web
+## 9. Notre site Web
 
-Le site Web HearRelay à l'adresse <https://hearrelay.app/> est un site informationnel statique hébergé sur GitHub Pages. Nous n'utilisons **aucun** cookie publicitaire, cookie d'analytique, pixel de suivi ni balise marketing tierce. Si cela devait changer, nous mettrions à jour la présente Politique et fournirions toute notification ou option de choix exigée par le droit applicable.
+Le site Web HearRelay à l'adresse <https://hearrelay.app/> est un site informationnel statique hébergé sur GitHub Pages. Nous **n'utilisons** aucun cookie publicitaire, cookie d'analytique, pixel de suivi ni balise marketing tierce.
+
+Comme pour la plupart des sites hébergés, GitHub ou les fournisseurs d'infrastructure peuvent traiter des journaux techniques standard, tels que les adresses IP et les métadonnées de requête, afin d'assurer la livraison et la sécurisation du site. CONEX n'utilise pas ces journaux à des fins de publicité, d'analytique ou de suivi.
+
+Si notre utilisation du site Web venait à changer de manière substantielle, nous mettrions à jour la présente Politique et fournirions toute notification ou option de choix exigée par le droit applicable.
 
 ---
 
-## 9. Utilisateurs internationaux
+## 10. Utilisateurs internationaux
 
-Étant donné que HearRelay ne transfère aucune donnée hors de vos appareils vers les serveurs de CONEX, aucun transfert international de données personnelles n'est effectué par CONEX.
+Étant donné que HearRelay ne transfère aucune donnée hors de vos appareils vers les serveurs de CONEX, aucun transfert international de données personnelles n'est effectué par CONEX. Les correspondances par e-mail volontaires peuvent être traitées par des prestataires de services comme décrit au §4.
 
-### 9.1 Utilisateurs dans l'Espace économique européen (EEE), au Royaume-Uni et en Suisse
+### 10.1 Utilisateurs dans l'Espace économique européen (EEE), au Royaume-Uni et en Suisse
 
 L'Application est conçue de telle sorte que CONEX ne collecte ni ne reçoit sur ses propres serveurs aucun son, enregistrement, information de paiement, donnée analytique, identifiant publicitaire ou donnée de suivi.
 
-Des informations limitées de découverte d'appareils peuvent être stockées dans Apple iCloud, dans le cadre de votre compte Apple ID (§4). CONEX n'exploite pas Apple iCloud et n'accède pas à ces informations sur ses propres serveurs. Lorsque le droit applicable considère ces informations comme des données personnelles, les **finalités** de tout traitement de ce type se limitent à permettre la découverte d'appareils, l'authentification mutuelle, la sécurité et la communication pair à pair locale entre vos propres appareils ; la **base légale** est votre consentement à l'utilisation de l'Application à cette fin, ainsi que votre intérêt légitime à connecter vos propres appareils de manière privée.
+Des informations limitées de découverte d'appareils peuvent être stockées dans Apple iCloud, dans le cadre de votre compte Apple ID (§5). CONEX n'exploite pas Apple iCloud et n'accède pas à ces informations sur ses propres serveurs.
 
-CONEX a évalué l'obligation, au titre de l'article 27 du RGPD, de désigner un représentant dans l'Union et a conclu que la nature limitée, occasionnelle et à faible risque de tout traitement entre dans l'exemption prévue à l'article 27(2)(a). Cette évaluation est documentée en interne et fait l'objet d'un réexamen lorsque des éléments substantiels évoluent. Si vous êtes une autorité de contrôle ou une personne concernée dans l'EEE souhaitant nous contacter, veuillez utiliser **hearrelay-privacy@conex-cp.com** — nous nous engageons à répondre dans les délais légaux.
+Dans la mesure où CONEX serait considérée comme responsable du traitement pour ce traitement limité, les **finalités** du traitement sont de permettre la découverte d'appareils, l'authentification mutuelle, la sécurité et la communication pair à pair locale entre vos propres appareils.
 
-### 9.2 Utilisateurs au Brésil
+Les **bases légales** sont :
 
-La posture de traitement de l'Application au regard de la LGPD reflète celle décrite au §9.1. CONEX n'a pas connaissance de données personnelles traitées sur ses propres serveurs. CONEX n'a pas désigné d'Encarregado local (DPO) au motif qu'aucun traitement de données personnelles à grande échelle ou à haut risque n'est effectué par CONEX. Le contact ci-dessus sert de point de contact pour les demandes au titre de la LGPD.
+- l'**exécution** du contrat de licence de l'application et des services connexes que vous avez sollicités, afin de permettre la découverte d'appareils, l'authentification et la communication pair à pair locale (Article 6(1)(b) du RGPD) ; et
+- les **intérêts légitimes** de CONEX à maintenir la sécurité, l'intégrité, la prévention des abus et l'architecture de réseau local préservant la vie privée de l'Application (Article 6(1)(f) du RGPD).
 
-### 9.3 Utilisateurs au Japon
+Lorsque le droit applicable exige le consentement pour une opération spécifique, nous nous appuierons sur votre consentement (Article 6(1)(a) du RGPD). Vous pouvez retirer ce consentement en désactivant iCloud pour l'Application, en réinitialisant les paramètres de sécurité de l'appareil dans l'Application, ou en désinstallant l'Application, étant entendu qu'une telle action peut empêcher le fonctionnement de la découverte d'appareils ou de l'appairage.
 
-CONEX n'inclut dans l'Application aucun SDK publicitaire, analytique ou de suivi tiers, et ne transmet aucune information relative aux utilisateurs vers ses propres serveurs. Apple iCloud Key-Value Storage est utilisé uniquement pour synchroniser les informations limitées de découverte d'appareils décrites au §4 au sein de votre propre compte Apple ID ; CONEX ne reçoit pas ces informations sur ses propres serveurs. Nous nous référons à cette configuration de bonne foi pour évaluer le régime japonais de notification de transmission externe au titre du Telecommunications Business Act.
+Pour la **correspondance par e-mail volontaire** (§4), les bases légales sont l'exécution de toute obligation d'assistance / précontractuelle / contractuelle que vous avez sollicitée, ainsi que notre intérêt légitime à répondre aux demandes et à maintenir la sécurité de l'Application.
 
-### 9.4 Utilisateurs à Hong Kong / Taïwan
+**Représentant dans l'UE.** CONEX n'a actuellement pas désigné de représentant dans l'EEE. Sur la base de l'évaluation actuelle de CONEX, l'Application est conçue de telle sorte que CONEX ne collecte pas de données personnelles sur ses propres serveurs, et tout traitement dont CONEX pourrait être considérée comme responsable est limité, à faible risque et lié à la découverte locale d'appareils et à la sécurité. Nous réévaluerons cette position si nos activités de traitement, notre base d'utilisateurs, nos régions de distribution, les orientations applicables ou les attentes réglementaires évoluent de manière substantielle. Cela ne limite pas votre droit de nous contacter à l'adresse **hearrelay-privacy@conex-cp.com** ni d'introduire une réclamation auprès d'une autorité de contrôle compétente.
 
-La même posture de traitement s'applique. CONEX a conscience que la PDPO (Hong Kong) et la Personal Information Protection Act (Taïwan) définissent largement les notions de données personnelles et d'informations personnelles ; veuillez vous référer aux §4 et §10 pour notre position et les droits que vous pouvez exercer.
+### 10.2 Utilisateurs au Brésil
+
+La posture de traitement de l'Application au regard de la LGPD reflète celle décrite au §10.1. CONEX n'a pas connaissance de données personnelles traitées sur ses propres serveurs autres que les correspondances par e-mail volontaires (§4). CONEX n'a pas désigné d'Encarregado local (DPO) au motif qu'aucun traitement de données personnelles à grande échelle ou à haut risque n'est effectué par CONEX. Le contact ci-dessus sert de point de contact pour les demandes au titre de la LGPD.
+
+### 10.3 Utilisateurs au Japon
+
+CONEX n'inclut dans l'Application aucun SDK publicitaire, analytique ou de suivi tiers, et ne transmet aucune information relative aux utilisateurs vers ses propres serveurs. Apple iCloud Key-Value Storage est utilisé uniquement pour synchroniser les informations limitées de découverte d'appareils décrites au §5 au sein de votre propre compte Apple ID ; CONEX ne reçoit pas ces informations sur ses propres serveurs.
+
+Cette divulgation est fournie par souci de transparence et au titre de l'évaluation volontaire par CONEX des règles japonaises de notification des transmissions externes prévues par le Telecommunications Business Act. CONEX n'utilise pas de SDK tiers de publicité, d'analytique ou de suivi, et ne reçoit pas ces informations sur ses propres serveurs.
+
+### 10.4 Utilisateurs à Hong Kong / Taïwan
+
+La même posture de traitement s'applique. CONEX a conscience que la PDPO (Hong Kong) et la Personal Information Protection Act (Taïwan) définissent largement les notions de données personnelles et d'informations personnelles ; veuillez vous référer aux §5 et §12 pour notre position et les droits que vous pouvez exercer.
 
 ---
 
-## 10. Confidentialité des enfants
+## 11. Confidentialité des enfants
 
 HearRelay est un utilitaire destiné aux adultes, généralement les parents ou les personnes assurant la garde d'enfants. Il n'est **pas destiné aux enfants de moins de 13 ans**, et CONEX ne collecte pas sciemment de données personnelles concernant des enfants. Le traitement de l'Application est local à votre appareil ; aucune donnée personnelle d'enfant n'est donc collectée, stockée ou transmise à CONEX.
 
 ---
 
-## 11. Vos droits
+## 12. Vos droits
 
-Étant donné que CONEX ne détient aucune donnée personnelle vous concernant sur ses serveurs, il n'y a généralement rien à consulter, rectifier, supprimer, exporter ou limiter. Néanmoins, selon votre localisation (EEE, Royaume-Uni, Californie, Brésil, Japon, Hong Kong, Taïwan, etc.), vous pouvez disposer de droits légaux, notamment :
+Pour les données que nous ne détenons pas (§2), il n'y a en règle générale rien à consulter, rectifier, supprimer, exporter ou limiter de notre part. Pour la correspondance par e-mail volontaire que nous recevons (§4), et dans la mesure où le droit applicable considère les informations de découverte d'appareils dans le périmètre Apple iCloud (§5) comme des données personnelles vous concernant, selon votre localisation (EEE, Royaume-Uni, Californie, Brésil, Japon, Hong Kong, Taïwan, etc.), vous pouvez disposer de droits légaux, notamment :
 
 - Droit d'accès
 - Droit de rectification
@@ -159,11 +198,11 @@ HearRelay est un utilitaire destiné aux adultes, généralement les parents ou 
 - Droit de refuser la « vente » ou le « partage » — CONEX ne vend ni ne partage de données personnelles
 - Droit d'introduire une réclamation auprès de votre autorité de contrôle locale
 
-Pour exercer un droit, contactez **hearrelay-privacy@conex-cp.com**. Veuillez noter que pour supprimer toutes les données stockées localement par l'Application, il vous suffit de désinstaller l'Application de votre appareil. Pour purger l'identité de l'Application propre à votre appareil dans Apple iCloud (§4), utilisez **Réglages → Sécurité → Réinitialiser toute la sécurité de l'appareil** dans l'Application.
+Pour exercer un droit, contactez **hearrelay-privacy@conex-cp.com**. Veuillez noter que pour supprimer toutes les données stockées localement par l'Application, il vous suffit de désinstaller l'Application de votre appareil. Pour purger l'identité de l'Application propre à votre appareil dans Apple iCloud (§5), utilisez **Réglages → Sécurité → Réinitialiser toute la sécurité de l'appareil** dans l'Application.
 
 ---
 
-## 12. Sécurité
+## 13. Sécurité
 
 Nous utilisons des protections conformes aux standards du secteur :
 
@@ -176,13 +215,13 @@ Aucune méthode de transmission ou de stockage n'est parfaitement sécurisée. P
 
 ---
 
-## 13. Modifications de la présente politique
+## 14. Modifications de la présente politique
 
 Nous pouvons réviser la présente Politique de confidentialité. La date de révision sera mise à jour en haut de cette page, et les modifications substantielles seront annoncées dans les notes de version de l'Application. Lorsque le droit applicable l'exige, nous obtiendrons votre consentement ou vous fournirons un préavis raisonnable et une véritable possibilité de cesser d'utiliser l'Application avant que la modification ne prenne effet.
 
 ---
 
-## 14. Contact
+## 15. Contact
 
 - Confidentialité : **hearrelay-privacy@conex-cp.com**
 - Assistance : **hearrelay-support@conex-cp.com**
